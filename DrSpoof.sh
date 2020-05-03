@@ -1,4 +1,4 @@
-#! /bin/bash 
+#!/bin/bash 
 
 arg=$1
 mode=$2
@@ -65,7 +65,7 @@ elif
 			while true
 				do	
 
-				output=`sudo arp $gateway -i $interface`
+				output=`sudo arp $gateway`
 				carpd=${output%C*}  # delete the part after the C
 				carpd=${carpd##*r}  # delete the part before the ether
 				arpd=${arpd//[ ]/}
@@ -149,7 +149,7 @@ elif [ " $arg " = ' -o ' ] || [ " $arg " = ' --offence ' ]; then
 		while true
 			do
 			
-			MYVAR=`sudo arp $gateway -i $interface`
+			MYVAR=`sudo arp $gateway`
 
 			carpd=${MYVAR%C*}  # retain the part after the C
 			carpd=${carpd##*r}  # retain the part before the ether

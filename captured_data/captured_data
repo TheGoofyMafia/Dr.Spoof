@@ -1,0 +1,946 @@
+17:49:14.912085 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 4291486435:4291486483, ack 3957143559, win 72, length 48
+17:49:14.912155 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 48, win 4095, length 0
+17:49:14.941712 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0 [5q] [1au] PTR (QU)? _homekit._tcp.local. PTR (QU)? _companion-link._tcp.local. PTR (QU)? _raop._tcp.local. PTR (QU)? _airplay._tcp.local. PTR (QU)? _sleep-proxy._udp.local. (139)
+17:49:14.943164 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0 [5q] [1au] PTR (QU)? _homekit._tcp.local. PTR (QU)? _companion-link._tcp.local. PTR (QU)? _raop._tcp.local. PTR (QU)? _airplay._tcp.local. PTR (QU)? _sleep-proxy._udp.local. (139)
+17:49:14.943820 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0*- [0q] 2/0/3 (Cache flush) PTR Garvits-iPad.local., (Cache flush) PTR Garvits-iPad.local. (215)
+17:49:14.944144 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0*- [0q] 2/0/3 (Cache flush) PTR Garvits-iPad.local., (Cache flush) PTR Garvits-iPad.local. (215)
+17:49:15.047929 IP 192.168.1.7.mdns > 224.0.0.251.mdns: 10 [2q] PTR (QM)? _%9E5E7C8F47989526C9BCD95D24084F6F0B27C5ED._sub._googlecast._tcp.local. PTR (QM)? _googlecast._tcp.local. (94)
+17:49:15.180522 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:15.304483 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0 [2q] [3n] [1au] ANY (QU)? Garvit's iPad._companion-link._tcp.local. ANY (QU)? Garvits-iPad.local. (170)
+17:49:15.309644 IP6 android-2.local > ff02::fb: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::fb, length 24
+17:49:15.310021 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0 [2q] [3n] [1au] ANY (QU)? Garvit's iPad._companion-link._tcp.local. ANY (QU)? Garvits-iPad.local. (170)
+17:49:15.573231 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0 [2q] [3n] [1au] ANY (QM)? Garvit's iPad._companion-link._tcp.local. ANY (QM)? Garvits-iPad.local. (170)
+17:49:15.573410 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0 [2q] [3n] [1au] ANY (QM)? Garvit's iPad._companion-link._tcp.local. ANY (QM)? Garvits-iPad.local. (170)
+17:49:15.702961 a0:6f:aa:8f:97:5e (oui Unknown) > Broadcast Null Unnumbered, xid, Flags [Response], length 46: 01 02
+17:49:15.769211 IP 192.168.1.2.62365 > 192.168.1.1.domain: 33313+ PTR? 234.136.159.162.in-addr.arpa. (46)
+17:49:15.822487 IP 192.168.1.1.domain > 192.168.1.2.62365: 33313 NXDomain 0/1/0 (108)
+17:49:15.822493 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0 [2q] [3n] [1au] ANY (QM)? Garvit's iPad._companion-link._tcp.local. ANY (QM)? Garvits-iPad.local. (170)
+17:49:15.823741 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0 [2q] [3n] [1au] ANY (QM)? Garvit's iPad._companion-link._tcp.local. ANY (QM)? Garvits-iPad.local. (170)
+17:49:15.824872 IP 192.168.1.2.49201 > 192.168.1.1.domain: 64902+ PTR? 251.0.0.224.in-addr.arpa. (42)
+17:49:15.841548 IP 192.168.1.1.domain > 192.168.1.2.49201: 64902 NXDomain 0/1/0 (99)
+17:49:15.843253 IP 192.168.1.2.58234 > 192.168.1.1.domain: 53200+ PTR? b.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa. (90)
+17:49:15.940486 IP6 android-2.local > ff02::2: HBH ICMP6, multicast listener donemax resp delay: 0 addr: ff02::fb, length 24
+17:49:15.940773 IP6 android-2.local > ff02::fb: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::fb, length 24
+17:49:16.022597 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0 [5q] [1au] PTR (QM)? _homekit._tcp.local. PTR (QM)? _companion-link._tcp.local. PTR (QM)? _raop._tcp.local. PTR (QM)? _airplay._tcp.local. PTR (QM)? _sleep-proxy._udp.local. (139)
+17:49:16.022762 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0 [5q] [1au] PTR (QM)? _homekit._tcp.local. PTR (QM)? _companion-link._tcp.local. PTR (QM)? _raop._tcp.local. PTR (QM)? _airplay._tcp.local. PTR (QM)? _sleep-proxy._udp.local. (139)
+17:49:16.024902 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0*- [0q] 4/0/3 PTR _companion-link._tcp.local., TXT "model=J81AP", (Cache flush) PTR Garvits-iPad.local., (Cache flush) PTR Garvits-iPad.local. (324)
+17:49:16.025829 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0*- [0q] 4/0/3 PTR _companion-link._tcp.local., TXT "model=J81AP", (Cache flush) PTR Garvits-iPad.local., (Cache flush) PTR Garvits-iPad.local. (324)
+17:49:16.129269 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0*- [0q] 6/0/3 (Cache flush) TXT "rpBA=E4:0D:A4:6B:05:FF" "rpAD=d8dba6258956" "rpFl=0x30000" "rpHN=c8a97a93f1f5" "rpVr=195.2", PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP", (Cache flush) SRV Garvits-iPad.local.:54760 0 0, (Cache flush) AAAA fe80::c21:7eab:5e58:7de3, (Cache flush) A 192.168.1.3 (359)
+17:49:16.130976 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0*- [0q] 6/0/3 (Cache flush) TXT "rpBA=E4:0D:A4:6B:05:FF" "rpAD=d8dba6258956" "rpFl=0x30000" "rpHN=c8a97a93f1f5" "rpVr=195.2", PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP", (Cache flush) SRV Garvits-iPad.local.:54760 0 0, (Cache flush) AAAA fe80::c21:7eab:5e58:7de3, (Cache flush) A 192.168.1.3 (359)
+17:49:16.180528 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:16.271641 IP6 android.local > ff02::fb: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::fb, length 24
+17:49:16.278285 IP 192.168.1.1.domain > 192.168.1.2.58234: 53200 NXDomain 0/1/0 (154)
+17:49:16.727289 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0*- [0q] 7/0/3 (Cache flush) TXT "rpBA=E4:0D:A4:6B:05:FF" "rpAD=d8dba6258956" "rpFl=0x30000" "rpHN=c8a97a93f1f5" "rpVr=195.2", PTR _companion-link._tcp.local., PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP", (Cache flush) SRV Garvits-iPad.local.:54760 0 0, (Cache flush) AAAA fe80::c21:7eab:5e58:7de3, (Cache flush) A 192.168.1.3 (396)
+17:49:16.729051 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0*- [0q] 7/0/3 (Cache flush) TXT "rpBA=E4:0D:A4:6B:05:FF" "rpAD=d8dba6258956" "rpFl=0x30000" "rpHN=c8a97a93f1f5" "rpVr=195.2", PTR _companion-link._tcp.local., PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP", (Cache flush) SRV Garvits-iPad.local.:54760 0 0, (Cache flush) AAAA fe80::c21:7eab:5e58:7de3, (Cache flush) A 192.168.1.3 (396)
+17:49:16.757528 IP 192.168.1.5.mdns > 224.0.0.251.mdns: 0 [2q] [2n] ANY (QM)? Android.local. ANY (QM)? Android.local. (81)
+17:49:16.757999 IP6 android.local.mdns > ff02::fb.mdns: 0 [2q] [2n] ANY (QM)? Android.local. ANY (QM)? Android.local. (81)
+17:49:16.777520 00:ff:ff:cc:11:10 (oui Unknown) > Broadcast, ethertype Unknown (0xfffa), length 95: 
+	0x0000:  736f 6672 6565 4142 595a 0200 0000 0000  sofreeABYZ......
+	0x0010:  0000 0000 0000 0000 0000 0000 0001 0a0e  ................
+	0x0020:  8bd1 6730 c516 c19d 0035 0025 fd99 1f8d  ..g0.....5.%....
+	0x0030:  0100 0001 0000 0000 0000 0169 0579 7469  ...........i.yti
+	0x0040:  6d67 0363 6f6d 0000 0100 0100 0000 0000  mg.com..........
+	0x0050:  00                                       .
+17:49:16.947365 IP 192.168.1.9.mdns > 224.0.0.251.mdns: 0 [4q] [4n] ANY (QM)? SH960S-AT._sensy-remote._tcp.local. ANY (QM)? SH960S-AT._androidtvremote._tcp.local. ANY (QM)? Android-2.local. ANY (QM)? Android-2.local. (191)
+17:49:16.947860 IP6 android-2.local.mdns > ff02::fb.mdns: 0 [4q] [4n] ANY (QM)? SH960S-AT._sensy-remote._tcp.local. ANY (QM)? SH960S-AT._androidtvremote._tcp.local. ANY (QM)? Android-2.local. ANY (QM)? Android-2.local. (191)
+17:49:17.021845 IP 192.168.1.5.mdns > 224.0.0.251.mdns: 0 [2q] [2n] ANY (QM)? Android.local. ANY (QM)? Android.local. (81)
+17:49:17.022215 IP6 android.local.mdns > ff02::fb.mdns: 0 [2q] [2n] ANY (QM)? Android.local. ANY (QM)? Android.local. (81)
+17:49:17.180625 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:17.200138 IP 192.168.1.9.mdns > 224.0.0.251.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:49:17.200811 IP6 android-2.local.mdns > ff02::fb.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:49:17.267131 IP 192.168.1.5.mdns > 224.0.0.251.mdns: 0 [2q] [2n] ANY (QM)? Android.local. ANY (QM)? Android.local. (81)
+17:49:17.267702 IP6 android.local.mdns > ff02::fb.mdns: 0 [2q] [2n] ANY (QM)? Android.local. ANY (QM)? Android.local. (81)
+17:49:17.283577 IP 192.168.1.2.53467 > 192.168.1.1.domain: 42687+ PTR? 2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa. (90)
+17:49:17.509546 IP 192.168.1.5.mdns > 224.0.0.251.mdns: 0*- [0q] 4/0/3 (Cache flush) PTR Android.local., (Cache flush) PTR Android.local., (Cache flush) A 192.168.1.5, (Cache flush) AAAA fe80::7ed6:61ff:fe11:5365 (245)
+17:49:17.509705 IP6 android.local.mdns > ff02::fb.mdns: 0*- [0q] 4/0/3 (Cache flush) PTR Android.local., (Cache flush) PTR Android.local., (Cache flush) A 192.168.1.5, (Cache flush) AAAA fe80::7ed6:61ff:fe11:5365 (245)
+17:49:17.521779 IP 192.168.1.1.domain > 192.168.1.2.53467: 42687 NXDomain 0/1/0 (154)
+17:49:17.794597 IP 192.168.1.5.45797 > 239.255.255.250.ssdp: UDP, length 125
+17:49:17.846397 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0*- [0q] 2/0/1 PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP" (146)
+17:49:17.847362 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0*- [0q] 2/0/1 PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP" (146)
+17:49:17.978690 IP 192.168.1.4.mdns > 224.0.0.251.mdns: 12 [4q] PTR (QM)? _%9E5E7C8F47989526C9BCD95D24084F6F0B27C5ED._sub._googlecast._tcp.local. PTR (QM)? _C1EB68AE._sub._googlecast._tcp.local. PTR (QM)? _8DA7527D._sub._googlecast._tcp.local. PTR (QM)? _googlecast._tcp.local. (126)
+17:49:18.137308 IP 192.168.1.5.45797 > 239.255.255.250.ssdp: UDP, length 125
+17:49:18.181951 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:18.200036 IP 192.168.1.9.mdns > 224.0.0.251.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:49:18.200676 IP6 android-2.local.mdns > ff02::fb.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:49:18.456048 IP 192.168.1.5.45797 > 239.255.255.250.ssdp: UDP, length 125
+17:49:18.512514 IP 192.168.1.5.mdns > 224.0.0.251.mdns: 0*- [0q] 4/0/3 (Cache flush) PTR Android.local., (Cache flush) PTR Android.local., (Cache flush) A 192.168.1.5, (Cache flush) AAAA fe80::7ed6:61ff:fe11:5365 (245)
+17:49:18.512691 IP6 android.local.mdns > ff02::fb.mdns: 0*- [0q] 4/0/3 (Cache flush) PTR Android.local., (Cache flush) PTR Android.local., (Cache flush) A 192.168.1.5, (Cache flush) AAAA fe80::7ed6:61ff:fe11:5365 (245)
+17:49:18.526537 IP 192.168.1.2.64888 > 192.168.1.1.domain: 48966+ PTR? 250.255.255.239.in-addr.arpa. (46)
+17:49:18.542281 IP 192.168.1.1.domain > 192.168.1.2.64888: 48966 NXDomain 0/1/0 (103)
+17:49:18.636982 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 48:229, ack 1, win 72, length 181
+17:49:18.637027 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 229, win 4093, length 0
+17:49:19.180628 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:19.313736 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 229:336, ack 1, win 72, length 107
+17:49:19.313782 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 336, win 4094, length 0
+17:49:19.549285 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 336:379, ack 1, win 72, length 43
+17:49:19.549324 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 379, win 4095, length 0
+17:49:19.554093 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 379:569, ack 1, win 72, length 190
+17:49:19.554133 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 569, win 4093, length 0
+17:49:19.636750 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 569:642, ack 1, win 72, length 73
+17:49:19.636789 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 642, win 4094, length 0
+17:49:20.181027 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:20.205988 IP6 android-2.local.mdns > ff02::fb.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:49:20.261400 IP6 android-2.local > ff02::fb: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::fb, length 24
+17:49:20.510545 IP 192.168.1.5.mdns > 224.0.0.251.mdns: 0*- [0q] 4/0/3 (Cache flush) PTR Android.local., (Cache flush) PTR Android.local., (Cache flush) A 192.168.1.5, (Cache flush) AAAA fe80::7ed6:61ff:fe11:5365 (245)
+17:49:20.511065 IP6 android.local.mdns > ff02::fb.mdns: 0*- [0q] 4/0/3 (Cache flush) PTR Android.local., (Cache flush) PTR Android.local., (Cache flush) A 192.168.1.5, (Cache flush) AAAA fe80::7ed6:61ff:fe11:5365 (245)
+17:49:21.180831 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:21.787418 00:ff:ff:cc:11:10 (oui Unknown) > Broadcast, ethertype Unknown (0xfffa), length 95: 
+	0x0000:  736f 6672 6565 4142 595a 0200 0000 0000  sofreeABYZ......
+	0x0010:  0000 0000 0000 0000 0000 0000 0001 87e0  ................
+	0x0020:  d648 0000 0000 0000 0000 0000 0000 0000  .H..............
+	0x0030:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+	0x0040:  0000 8004 a37c 8111 3bf0 0000 0000 0000  .....|..;.......
+	0x0050:  00                                       .
+17:49:22.180836 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:23.176374 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:23.640077 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 642:844, ack 1, win 72, length 202
+17:49:23.640116 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 844, win 4092, length 0
+17:49:24.180649 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:24.198806 IP 192.168.1.9.mdns > 224.0.0.251.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:49:24.199461 IP6 android-2.local.mdns > ff02::fb.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:49:24.530266 IP 192.168.1.5.mdns > 224.0.0.251.mdns: 0*- [0q] 4/0/3 (Cache flush) PTR Android.local., (Cache flush) PTR Android.local., (Cache flush) A 192.168.1.5, (Cache flush) AAAA fe80::7ed6:61ff:fe11:5365 (245)
+17:49:24.530648 IP6 android.local.mdns > ff02::fb.mdns: 0*- [0q] 4/0/3 (Cache flush) PTR Android.local., (Cache flush) PTR Android.local., (Cache flush) A 192.168.1.5, (Cache flush) AAAA fe80::7ed6:61ff:fe11:5365 (245)
+17:49:24.777426 ARP, Request who-has 192.168.1.2 tell 192.168.1.1, length 46
+17:49:24.777440 ARP, Reply 192.168.1.2 is-at f0:76:1c:b0:75:14 (oui Unknown), length 28
+17:49:25.181126 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:25.983628 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0 [5q] [1au] PTR (QU)? _homekit._tcp.local. PTR (QU)? _companion-link._tcp.local. PTR (QU)? _raop._tcp.local. PTR (QU)? _airplay._tcp.local. PTR (QU)? _sleep-proxy._udp.local. (139)
+17:49:25.984721 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0 [5q] [1au] PTR (QU)? _homekit._tcp.local. PTR (QU)? _companion-link._tcp.local. PTR (QU)? _raop._tcp.local. PTR (QU)? _airplay._tcp.local. PTR (QU)? _sleep-proxy._udp.local. (139)
+17:49:25.985021 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0*- [0q] 2/0/3 (Cache flush) PTR Garvits-iPad.local., (Cache flush) PTR Garvits-iPad.local. (215)
+17:49:25.985305 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0*- [0q] 2/0/3 (Cache flush) PTR Garvits-iPad.local., (Cache flush) PTR Garvits-iPad.local. (215)
+17:49:26.181019 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:26.341755 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0 [2q] [3n] [1au] ANY (QU)? Garvit's iPad._companion-link._tcp.local. ANY (QU)? Garvits-iPad.local. (170)
+17:49:26.343217 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0 [2q] [3n] [1au] ANY (QU)? Garvit's iPad._companion-link._tcp.local. ANY (QU)? Garvits-iPad.local. (170)
+17:49:26.357047 IP 192.168.1.2.51040 > 47.224.186.35.bc.googleusercontent.com.https: Flags [P.], seq 3048459838:3048459881, ack 1617784478, win 2048, options [nop,nop,TS val 15783150 ecr 3437430963], length 43
+17:49:26.381087 IP 47.224.186.35.bc.googleusercontent.com.https > 192.168.1.2.51040: Flags [.], ack 43, win 246, options [nop,nop,TS val 3437460836 ecr 15783150], length 0
+17:49:26.507783 IP 47.224.186.35.bc.googleusercontent.com.https > 192.168.1.2.51040: Flags [P.], seq 1:41, ack 43, win 246, options [nop,nop,TS val 3437460963 ecr 15783150], length 40
+17:49:26.507821 IP 192.168.1.2.51040 > 47.224.186.35.bc.googleusercontent.com.https: Flags [.], ack 41, win 2047, options [nop,nop,TS val 15783299 ecr 3437460963], length 0
+17:49:26.554744 IP 192.168.1.2.63535 > 192.168.1.1.domain: 29397+ PTR? 47.224.186.35.in-addr.arpa. (44)
+17:49:26.639963 IP6 garvits-ipad.local > ff02::fb: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::fb, length 24
+17:49:26.668850 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0 [2q] [3n] [1au] ANY (QM)? Garvit's iPad._companion-link._tcp.local. ANY (QM)? Garvits-iPad.local. (170)
+17:49:26.669090 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0 [2q] [3n] [1au] ANY (QM)? Garvit's iPad._companion-link._tcp.local. ANY (QM)? Garvits-iPad.local. (170)
+17:49:26.757358 IP 192.168.1.3 > igmp.mcast.net: igmp v3 report, 1 group record(s)
+17:49:26.797339 00:ff:ff:cc:11:10 (oui Unknown) > Broadcast, ethertype Unknown (0xfffa), length 95: 
+	0x0000:  736f 6672 6565 4142 595a 0200 0000 0000  sofreeABYZ......
+	0x0010:  0000 0000 0000 0000 0000 0000 0001 87e0  ................
+	0x0020:  dc48 0000 0000 0000 0000 0000 0000 0000  .H..............
+	0x0030:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+	0x0040:  0000 8004 a37c 8111 3bf0 0000 0000 0000  .....|..;.......
+	0x0050:  00                                       .
+17:49:26.936466 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0 [2q] [3n] [1au] ANY (QM)? Garvit's iPad._companion-link._tcp.local. ANY (QM)? Garvits-iPad.local. (170)
+17:49:26.936673 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0 [2q] [3n] [1au] ANY (QM)? Garvit's iPad._companion-link._tcp.local. ANY (QM)? Garvits-iPad.local. (170)
+17:49:26.977581 IP 192.168.1.1.domain > 192.168.1.2.63535: 29397 1/4/4 PTR 47.224.186.35.bc.googleusercontent.com. (290)
+17:49:27.088200 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0 [5q] [1au] PTR (QM)? _homekit._tcp.local. PTR (QM)? _companion-link._tcp.local. PTR (QM)? _raop._tcp.local. PTR (QM)? _airplay._tcp.local. PTR (QM)? _sleep-proxy._udp.local. (139)
+17:49:27.088433 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0 [5q] [1au] PTR (QM)? _homekit._tcp.local. PTR (QM)? _companion-link._tcp.local. PTR (QM)? _raop._tcp.local. PTR (QM)? _airplay._tcp.local. PTR (QM)? _sleep-proxy._udp.local. (139)
+17:49:27.089697 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0*- [0q] 4/0/3 PTR _companion-link._tcp.local., TXT "model=J81AP", (Cache flush) PTR Garvits-iPad.local., (Cache flush) PTR Garvits-iPad.local. (324)
+17:49:27.090614 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0*- [0q] 4/0/3 PTR _companion-link._tcp.local., TXT "model=J81AP", (Cache flush) PTR Garvits-iPad.local., (Cache flush) PTR Garvits-iPad.local. (324)
+17:49:27.180842 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:27.193503 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0*- [0q] 6/0/3 (Cache flush) TXT "rpBA=E4:0D:A4:6B:05:FF" "rpAD=d8dba6258956" "rpFl=0x30000" "rpHN=c8a97a93f1f5" "rpVr=195.2", PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP", (Cache flush) SRV Garvits-iPad.local.:54760 0 0, (Cache flush) AAAA fe80::c21:7eab:5e58:7de3, (Cache flush) A 192.168.1.3 (359)
+17:49:27.194449 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0*- [0q] 6/0/3 (Cache flush) TXT "rpBA=E4:0D:A4:6B:05:FF" "rpAD=d8dba6258956" "rpFl=0x30000" "rpHN=c8a97a93f1f5" "rpVr=195.2", PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP", (Cache flush) SRV Garvits-iPad.local.:54760 0 0, (Cache flush) AAAA fe80::c21:7eab:5e58:7de3, (Cache flush) A 192.168.1.3 (359)
+17:49:27.839461 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0*- [0q] 7/0/3 (Cache flush) TXT "rpBA=E4:0D:A4:6B:05:FF" "rpAD=d8dba6258956" "rpFl=0x30000" "rpHN=c8a97a93f1f5" "rpVr=195.2", PTR _companion-link._tcp.local., PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP", (Cache flush) SRV Garvits-iPad.local.:54760 0 0, (Cache flush) AAAA fe80::c21:7eab:5e58:7de3, (Cache flush) A 192.168.1.3 (396)
+17:49:27.840319 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0*- [0q] 7/0/3 (Cache flush) TXT "rpBA=E4:0D:A4:6B:05:FF" "rpAD=d8dba6258956" "rpFl=0x30000" "rpHN=c8a97a93f1f5" "rpVr=195.2", PTR _companion-link._tcp.local., PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP", (Cache flush) SRV Garvits-iPad.local.:54760 0 0, (Cache flush) AAAA fe80::c21:7eab:5e58:7de3, (Cache flush) A 192.168.1.3 (396)
+17:49:27.980171 IP 192.168.1.2.56119 > 192.168.1.1.domain: 12159+ PTR? 22.0.0.224.in-addr.arpa. (41)
+17:49:28.162895 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:28.253048 IP 192.168.1.1.domain > 192.168.1.2.56119: 12159 1/4/4 PTR igmp.mcast.net. (220)
+17:49:28.764832 IP 192.168.1.3 > igmp.mcast.net: igmp v3 report, 1 group record(s)
+17:49:28.835433 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0*- [0q] 2/0/1 PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP" (146)
+17:49:28.835976 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0*- [0q] 2/0/1 PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP" (146)
+17:49:29.180765 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:30.181128 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:31.181285 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:31.807213 00:ff:ff:cc:11:10 (oui Unknown) > Broadcast, ethertype Unknown (0xfffa), length 95: 
+	0x0000:  736f 6672 6565 4142 595a 0200 0000 0000  sofreeABYZ......
+	0x0010:  0000 0000 0000 0000 0000 0000 0001 87e0  ................
+	0x0020:  d648 0000 0000 0000 0000 0000 0000 0000  .H..............
+	0x0030:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+	0x0040:  0000 8004 a37c 8111 3bf0 0000 0000 0000  .....|..;.......
+	0x0050:  00                                       .
+17:49:32.167222 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:32.518086 IP 192.168.1.5.mdns > 224.0.0.251.mdns: 0*- [0q] 4/0/3 (Cache flush) PTR Android.local., (Cache flush) PTR Android.local., (Cache flush) A 192.168.1.5, (Cache flush) AAAA fe80::7ed6:61ff:fe11:5365 (245)
+17:49:32.518398 IP6 android.local.mdns > ff02::fb.mdns: 0*- [0q] 4/0/3 (Cache flush) PTR Android.local., (Cache flush) PTR Android.local., (Cache flush) A 192.168.1.5, (Cache flush) AAAA fe80::7ed6:61ff:fe11:5365 (245)
+17:49:33.180743 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:33.587703 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 844:919, ack 1, win 72, length 75
+17:49:33.587752 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 919, win 4094, length 0
+17:49:33.920894 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 919:971, ack 1, win 72, length 52
+17:49:33.920937 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 971, win 4095, length 0
+17:49:33.968952 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 971:1021, ack 1, win 72, length 50
+17:49:33.968994 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 1021, win 4095, length 0
+17:49:34.174337 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 1021:1072, ack 1, win 72, length 51
+17:49:34.174375 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 1072, win 4095, length 0
+17:49:34.177116 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:34.937825 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 1072:1118, ack 1, win 72, length 46
+17:49:34.937871 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 1118, win 4095, length 0
+17:49:35.064074 IP 192.168.1.7.mdns > 224.0.0.251.mdns: 11 [2q] PTR (QM)? _%9E5E7C8F47989526C9BCD95D24084F6F0B27C5ED._sub._googlecast._tcp.local. PTR (QM)? _googlecast._tcp.local. (94)
+17:49:35.180663 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:35.936724 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 1118:1219, ack 1, win 72, length 101
+17:49:35.936779 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 1219, win 4094, length 0
+17:49:36.163623 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:36.681977 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0 [5q] [1au] PTR (QU)? _homekit._tcp.local. PTR (QU)? _companion-link._tcp.local. PTR (QU)? _raop._tcp.local. PTR (QU)? _airplay._tcp.local. PTR (QU)? _sleep-proxy._udp.local. (139)
+17:49:36.683483 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0 [5q] [1au] PTR (QU)? _homekit._tcp.local. PTR (QU)? _companion-link._tcp.local. PTR (QU)? _raop._tcp.local. PTR (QU)? _airplay._tcp.local. PTR (QU)? _sleep-proxy._udp.local. (139)
+17:49:36.683793 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0*- [0q] 2/0/3 (Cache flush) PTR Garvits-iPad.local., (Cache flush) PTR Garvits-iPad.local. (215)
+17:49:36.683970 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0*- [0q] 2/0/3 (Cache flush) PTR Garvits-iPad.local., (Cache flush) PTR Garvits-iPad.local. (215)
+17:49:36.817093 00:ff:ff:cc:11:10 (oui Unknown) > Broadcast, ethertype Unknown (0xfffa), length 95: 
+	0x0000:  736f 6672 6565 4142 595a 0200 0000 0000  sofreeABYZ......
+	0x0010:  0000 0000 0000 0000 0000 0000 0001 0a0e  ................
+	0x0020:  8bd1 67d6 3d01 c19d 0035 002e 9df5 0982  ..g.=....5......
+	0x0030:  0100 0001 0000 0000 0000 0866 726f 6e74  ...........front
+	0x0040:  6965 7207 7469 6b74 6f6b 7603 636f 6d00  ier.tiktokv.com.
+	0x0050:  00                                       .
+17:49:37.181194 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:37.210739 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0 [2q] [3n] [1au] ANY (QU)? Garvit's iPad._companion-link._tcp.local. ANY (QU)? Garvits-iPad.local. (170)
+17:49:37.211908 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0 [2q] [3n] [1au] ANY (QU)? Garvit's iPad._companion-link._tcp.local. ANY (QU)? Garvits-iPad.local. (170)
+17:49:37.375530 IP6 garvits-ipad.local > ff02::fb: HBH ICMP6, multicast listener donemax resp delay: 0 addr: ff02::fb, length 24
+17:49:37.375723 IP6 garvits-ipad.local > ff02::fb: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::fb, length 24
+17:49:37.479861 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0 [2q] [3n] [1au] ANY (QM)? Garvit's iPad._companion-link._tcp.local. ANY (QM)? Garvits-iPad.local. (170)
+17:49:37.480096 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0 [2q] [3n] [1au] ANY (QM)? Garvit's iPad._companion-link._tcp.local. ANY (QM)? Garvits-iPad.local. (170)
+17:49:37.754113 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0 [7q] [3n] [1au] PTR (QM)? _homekit._tcp.local. PTR (QM)? _companion-link._tcp.local. PTR (QM)? _raop._tcp.local. PTR (QM)? _airplay._tcp.local. PTR (QM)? _sleep-proxy._udp.local. ANY (QM)? Garvit's iPad._companion-link._tcp.local. ANY (QM)? Garvits-iPad.local. (242)
+17:49:37.754665 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0 [7q] [3n] [1au] PTR (QM)? _homekit._tcp.local. PTR (QM)? _companion-link._tcp.local. PTR (QM)? _raop._tcp.local. PTR (QM)? _airplay._tcp.local. PTR (QM)? _sleep-proxy._udp.local. ANY (QM)? Garvit's iPad._companion-link._tcp.local. ANY (QM)? Garvits-iPad.local. (242)
+17:49:37.754876 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0*- [0q] 2/0/3 (Cache flush) PTR Garvits-iPad.local., (Cache flush) PTR Garvits-iPad.local. (215)
+17:49:37.755162 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0*- [0q] 2/0/3 (Cache flush) PTR Garvits-iPad.local., (Cache flush) PTR Garvits-iPad.local. (215)
+17:49:37.933708 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0*- [0q] 2/0/1 PTR _companion-link._tcp.local., TXT "model=J81AP" (155)
+17:49:37.933908 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0*- [0q] 2/0/1 PTR _companion-link._tcp.local., TXT "model=J81AP" (155)
+17:49:37.973514 IP 192.168.1.4.mdns > 224.0.0.251.mdns: 13 [4q] PTR (QM)? _%9E5E7C8F47989526C9BCD95D24084F6F0B27C5ED._sub._googlecast._tcp.local. PTR (QM)? _C1EB68AE._sub._googlecast._tcp.local. PTR (QM)? _8DA7527D._sub._googlecast._tcp.local. PTR (QM)? _googlecast._tcp.local. (126)
+17:49:38.151305 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0*- [0q] 6/0/3 (Cache flush) TXT "rpBA=E4:0D:A4:6B:05:FF" "rpAD=d8dba6258956" "rpFl=0x30000" "rpHN=c8a97a93f1f5" "rpVr=195.2", PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP", (Cache flush) SRV Garvits-iPad.local.:54760 0 0, (Cache flush) AAAA fe80::c21:7eab:5e58:7de3, (Cache flush) A 192.168.1.3 (359)
+17:49:38.152535 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0*- [0q] 6/0/3 (Cache flush) TXT "rpBA=E4:0D:A4:6B:05:FF" "rpAD=d8dba6258956" "rpFl=0x30000" "rpHN=c8a97a93f1f5" "rpVr=195.2", PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP", (Cache flush) SRV Garvits-iPad.local.:54760 0 0, (Cache flush) AAAA fe80::c21:7eab:5e58:7de3, (Cache flush) A 192.168.1.3 (359)
+17:49:38.182584 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:38.489269 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0*- [0q] 2/0/1 PTR _companion-link._tcp.local., TXT "model=J81AP" (155)
+17:49:38.489507 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0*- [0q] 2/0/1 PTR _companion-link._tcp.local., TXT "model=J81AP" (155)
+17:49:39.161656 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0*- [0q] 6/0/3 (Cache flush) TXT "rpBA=E4:0D:A4:6B:05:FF" "rpAD=d8dba6258956" "rpFl=0x30000" "rpHN=c8a97a93f1f5" "rpVr=195.2", PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP", (Cache flush) SRV Garvits-iPad.local.:54760 0 0, (Cache flush) AAAA fe80::c21:7eab:5e58:7de3, (Cache flush) A 192.168.1.3 (359)
+17:49:39.161923 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0*- [0q] 6/0/3 (Cache flush) TXT "rpBA=E4:0D:A4:6B:05:FF" "rpAD=d8dba6258956" "rpFl=0x30000" "rpHN=c8a97a93f1f5" "rpVr=195.2", PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP", (Cache flush) SRV Garvits-iPad.local.:54760 0 0, (Cache flush) AAAA fe80::c21:7eab:5e58:7de3, (Cache flush) A 192.168.1.3 (359)
+17:49:39.181399 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:39.681386 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0*- [0q] 2/0/1 PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP" (146)
+17:49:39.681914 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0*- [0q] 2/0/1 PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP" (146)
+17:49:40.182691 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:41.177171 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:41.827027 00:ff:ff:cc:11:10 (oui Unknown) > Broadcast, ethertype Unknown (0xfffa), length 95: 
+	0x0000:  736f 6672 6565 4142 595a 0200 0000 0000  sofreeABYZ......
+	0x0010:  0000 0000 0000 0000 0000 0000 0001 87e0  ................
+	0x0020:  dc48 0000 0000 0000 0000 0000 0000 0000  .H..............
+	0x0030:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+	0x0040:  0000 8004 a37c 8111 3bf0 0000 0000 0000  .....|..;.......
+	0x0050:  00                                       .
+17:49:42.152942 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:43.181115 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:43.462511 IP 192.168.1.2.51256 > 162.159.134.232.https: Flags [.], ack 722836374, win 4096, length 0
+17:49:43.462528 IP 192.168.1.2.51255 > 162.159.133.232.https: Flags [.], ack 1495120156, win 4096, length 0
+17:49:43.462536 IP 192.168.1.2.51254 > 162.159.129.233.https: Flags [.], ack 28177393, win 4096, length 0
+17:49:43.487389 IP 162.159.129.233.https > 192.168.1.2.51254: Flags [.], ack 1, win 107, length 0
+17:49:43.487393 IP 162.159.133.232.https > 192.168.1.2.51255: Flags [.], ack 1, win 72, length 0
+17:49:43.487396 IP 162.159.134.232.https > 192.168.1.2.51256: Flags [.], ack 1, win 71, length 0
+17:49:44.180783 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:44.274962 IP 192.168.1.2.64601 > 192.168.1.1.domain: 62477+ PTR? 233.129.159.162.in-addr.arpa. (46)
+17:49:44.319258 IP 192.168.1.1.domain > 192.168.1.2.64601: 62477 NXDomain 0/1/0 (108)
+17:49:44.530955 IP 192.168.1.2.51024 > sg-sgp-ibm-r010.teamviewer.com.https: Flags [P.], seq 514711861:514711885, ack 487155849, win 2048, options [nop,nop,TS val 15801314 ecr 348212028], length 24
+17:49:44.611089 IP sg-sgp-ibm-r010.teamviewer.com.https > 192.168.1.2.51024: Flags [P.], seq 1:25, ack 24, win 256, options [nop,nop,TS val 348261990 ecr 15801314], length 24
+17:49:44.611136 IP 192.168.1.2.51024 > sg-sgp-ibm-r010.teamviewer.com.https: Flags [.], ack 25, win 2047, options [nop,nop,TS val 15801394 ecr 348261990], length 0
+17:49:44.754582 IP6 garvits-imac.local.dhcpv6-client > ff02::1:2.dhcpv6-server: dhcp6 inf-req
+17:49:44.937828 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [P.], seq 1:55, ack 1219, win 4096, length 54
+17:49:44.963014 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [.], ack 55, win 72, length 0
+17:49:45.181148 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:45.250651 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 1219:1252, ack 55, win 72, length 33
+17:49:45.250696 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 1252, win 4095, length 0
+17:49:45.321789 IP 192.168.1.2.55535 > 192.168.1.1.domain: 33190+ PTR? 171.220.81.119.in-addr.arpa. (45)
+17:49:45.376024 IP 192.168.1.1.domain > 192.168.1.2.55535: 33190 1/2/2 PTR SG-SGP-IBM-R010.teamviewer.com. (175)
+17:49:45.454991 IP 192.168.1.2.mdns > 224.0.0.251.mdns: 0 PTR (QU)? 5.b.0.0.2.6.5.8.e.8.4.4.5.c.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+17:49:45.455078 IP6 garvits-imac.local.mdns > ff02::fb.mdns: 0 PTR (QU)? 5.b.0.0.2.6.5.8.e.8.4.4.5.c.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+17:49:45.556835 IP 192.168.1.2.mdns > 224.0.0.251.mdns: 0*- [0q] 1/0/1 (Cache flush) PTR Garvits-iMac.local. (134)
+17:49:45.556887 IP6 garvits-imac.local.mdns > ff02::fb.mdns: 0*- [0q] 1/0/1 (Cache flush) PTR Garvits-iMac.local. (134)
+17:49:45.558016 IP 192.168.1.2.64225 > 192.168.1.1.domain: 20000+ PTR? 2.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa. (90)
+17:49:45.783923 IP 192.168.1.1.domain > 192.168.1.2.64225: 20000 NXDomain 0/1/0 (154)
+17:49:46.162999 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:46.300689 IP6 android-2.local > ff02::2: HBH ICMP6, multicast listener donemax resp delay: 0 addr: ff02::fb, length 24
+17:49:46.301012 IP6 android-2.local > ff02::fb: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::fb, length 24
+17:49:46.805522 IP 192.168.1.9.mdns > 224.0.0.251.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:49:46.805731 IP6 android-2.local.mdns > ff02::fb.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:49:46.805955 IP6 android-2.local.mdns > ff02::fb.mdns: 0 [4q] [4n] ANY (QU)? SH960S-AT._sensy-remote._tcp.local. ANY (QU)? SH960S-AT._androidtvremote._tcp.local. ANY (QU)? Android-2.local. ANY (QU)? Android-2.local. (191)
+17:49:46.836886 00:ff:ff:cc:11:10 (oui Unknown) > Broadcast, ethertype Unknown (0xfffa), length 95: 
+	0x0000:  736f 6672 6565 4142 595a 0200 0000 0000  sofreeABYZ......
+	0x0010:  0000 0000 0000 0000 0000 0000 0001 87e0  ................
+	0x0020:  d848 0000 0000 0000 0000 0000 0000 0000  .H..............
+	0x0030:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+	0x0040:  0000 8004 a37c 8111 3bf0 0000 0000 0000  .....|..;.......
+	0x0050:  00                                       .
+17:49:47.056226 IP 192.168.1.9.mdns > 224.0.0.251.mdns: 0 [4q] [4n] ANY (QM)? SH960S-AT._sensy-remote._tcp.local. ANY (QM)? SH960S-AT._androidtvremote._tcp.local. ANY (QM)? Android-2.local. ANY (QM)? Android-2.local. (191)
+17:49:47.056799 IP6 android-2.local.mdns > ff02::fb.mdns: 0 [4q] [4n] ANY (QM)? SH960S-AT._sensy-remote._tcp.local. ANY (QM)? SH960S-AT._androidtvremote._tcp.local. ANY (QM)? Android-2.local. ANY (QM)? Android-2.local. (191)
+17:49:47.162130 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:47.301898 IP 192.168.1.9.mdns > 224.0.0.251.mdns: 0 [4q] [4n] ANY (QM)? SH960S-AT._sensy-remote._tcp.local. ANY (QM)? SH960S-AT._androidtvremote._tcp.local. ANY (QM)? Android-2.local. ANY (QM)? Android-2.local. (191)
+17:49:47.305129 IP6 android-2.local.mdns > ff02::fb.mdns: 0 [4q] [4n] ANY (QM)? SH960S-AT._sensy-remote._tcp.local. ANY (QM)? SH960S-AT._androidtvremote._tcp.local. ANY (QM)? Android-2.local. ANY (QM)? Android-2.local. (191)
+17:49:47.553900 IP 192.168.1.9.mdns > 224.0.0.251.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:49:47.554102 IP6 android-2.local.mdns > ff02::fb.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:49:47.838521 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0 [5q] [1au] PTR (QU)? _homekit._tcp.local. PTR (QU)? _companion-link._tcp.local. PTR (QU)? _raop._tcp.local. PTR (QU)? _airplay._tcp.local. PTR (QU)? _sleep-proxy._udp.local. (139)
+17:49:47.839463 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0 [5q] [1au] PTR (QU)? _homekit._tcp.local. PTR (QU)? _companion-link._tcp.local. PTR (QU)? _raop._tcp.local. PTR (QU)? _airplay._tcp.local. PTR (QU)? _sleep-proxy._udp.local. (139)
+17:49:47.839759 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0*- [0q] 2/0/3 (Cache flush) PTR Garvits-iPad.local., (Cache flush) PTR Garvits-iPad.local. (215)
+17:49:47.839941 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0*- [0q] 2/0/3 (Cache flush) PTR Garvits-iPad.local., (Cache flush) PTR Garvits-iPad.local. (215)
+17:49:48.156328 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0 [2q] [3n] [1au] ANY (QU)? Garvit's iPad._companion-link._tcp.local. ANY (QU)? Garvits-iPad.local. (170)
+17:49:48.157066 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0 [2q] [3n] [1au] ANY (QU)? Garvit's iPad._companion-link._tcp.local. ANY (QU)? Garvits-iPad.local. (170)
+17:49:48.180975 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:48.264421 IP6 garvits-ipad.local > ff02::fb: HBH ICMP6, multicast listener donemax resp delay: 0 addr: ff02::fb, length 24
+17:49:48.264570 IP6 garvits-ipad.local > ff02::fb: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::fb, length 24
+17:49:48.442551 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0 [2q] [3n] [1au] ANY (QM)? Garvit's iPad._companion-link._tcp.local. ANY (QM)? Garvits-iPad.local. (170)
+17:49:48.443483 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0 [2q] [3n] [1au] ANY (QM)? Garvit's iPad._companion-link._tcp.local. ANY (QM)? Garvits-iPad.local. (170)
+17:49:48.560926 IP 192.168.1.5.mdns > 224.0.0.251.mdns: 0*- [0q] 4/0/3 (Cache flush) PTR Android.local., (Cache flush) PTR Android.local., (Cache flush) A 192.168.1.5, (Cache flush) AAAA fe80::7ed6:61ff:fe11:5365 (245)
+17:49:48.561270 IP6 android.local.mdns > ff02::fb.mdns: 0*- [0q] 4/0/3 (Cache flush) PTR Android.local., (Cache flush) PTR Android.local., (Cache flush) A 192.168.1.5, (Cache flush) AAAA fe80::7ed6:61ff:fe11:5365 (245)
+17:49:48.568393 IP 192.168.1.3 > igmp.mcast.net: igmp v3 report, 1 group record(s)
+17:49:48.901581 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0 [7q] [3n] [1au] PTR (QM)? _homekit._tcp.local. PTR (QM)? _companion-link._tcp.local. PTR (QM)? _raop._tcp.local. PTR (QM)? _airplay._tcp.local. PTR (QM)? _sleep-proxy._udp.local. ANY (QM)? Garvit's iPad._companion-link._tcp.local. ANY (QM)? Garvits-iPad.local. (242)
+17:49:48.902122 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0 [7q] [3n] [1au] PTR (QM)? _homekit._tcp.local. PTR (QM)? _companion-link._tcp.local. PTR (QM)? _raop._tcp.local. PTR (QM)? _airplay._tcp.local. PTR (QM)? _sleep-proxy._udp.local. ANY (QM)? Garvit's iPad._companion-link._tcp.local. ANY (QM)? Garvits-iPad.local. (242)
+17:49:48.902338 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0*- [0q] 4/0/3 PTR _companion-link._tcp.local., TXT "model=J81AP", (Cache flush) PTR Garvits-iPad.local., (Cache flush) PTR Garvits-iPad.local. (324)
+17:49:48.902551 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0*- [0q] 4/0/3 PTR _companion-link._tcp.local., TXT "model=J81AP", (Cache flush) PTR Garvits-iPad.local., (Cache flush) PTR Garvits-iPad.local. (324)
+17:49:49.180799 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:49.205625 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0*- [0q] 6/0/3 (Cache flush) TXT "rpBA=E4:0D:A4:6B:05:FF" "rpAD=d8dba6258956" "rpFl=0x30000" "rpHN=c8a97a93f1f5" "rpVr=195.2", PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP", (Cache flush) SRV Garvits-iPad.local.:54760 0 0, (Cache flush) AAAA fe80::c21:7eab:5e58:7de3, (Cache flush) A 192.168.1.3 (359)
+17:49:49.205973 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0*- [0q] 6/0/3 (Cache flush) TXT "rpBA=E4:0D:A4:6B:05:FF" "rpAD=d8dba6258956" "rpFl=0x30000" "rpHN=c8a97a93f1f5" "rpVr=195.2", PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP", (Cache flush) SRV Garvits-iPad.local.:54760 0 0, (Cache flush) AAAA fe80::c21:7eab:5e58:7de3, (Cache flush) A 192.168.1.3 (359)
+17:49:49.653491 IP6 android-2.local > ff02::fb: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::fb, length 24
+17:49:49.680754 IP 192.168.1.2.51024 > sg-sgp-ibm-r010.teamviewer.com.https: Flags [P.], seq 24:48, ack 25, win 2048, options [nop,nop,TS val 15806459 ecr 348261990], length 24
+17:49:49.801034 IP sg-sgp-ibm-r010.teamviewer.com.https > 192.168.1.2.51024: Flags [.], ack 48, win 256, options [nop,nop,TS val 348267180 ecr 15806459], length 0
+17:49:49.901560 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0*- [0q] 7/0/3 (Cache flush) TXT "rpBA=E4:0D:A4:6B:05:FF" "rpAD=d8dba6258956" "rpFl=0x30000" "rpHN=c8a97a93f1f5" "rpVr=195.2", PTR _companion-link._tcp.local., PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP", (Cache flush) SRV Garvits-iPad.local.:54760 0 0, (Cache flush) AAAA fe80::c21:7eab:5e58:7de3, (Cache flush) A 192.168.1.3 (396)
+17:49:49.902267 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0*- [0q] 7/0/3 (Cache flush) TXT "rpBA=E4:0D:A4:6B:05:FF" "rpAD=d8dba6258956" "rpFl=0x30000" "rpHN=c8a97a93f1f5" "rpVr=195.2", PTR _companion-link._tcp.local., PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP", (Cache flush) SRV Garvits-iPad.local.:54760 0 0, (Cache flush) AAAA fe80::c21:7eab:5e58:7de3, (Cache flush) A 192.168.1.3 (396)
+17:49:50.029201 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 1252:1429, ack 55, win 72, length 177
+17:49:50.029244 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 1429, win 4093, length 0
+17:49:50.179103 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:50.569704 IP 192.168.1.9.mdns > 224.0.0.251.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:49:50.569918 IP6 android-2.local.mdns > ff02::fb.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:49:50.575927 IP 192.168.1.3 > igmp.mcast.net: igmp v3 report, 1 group record(s)
+17:49:50.650945 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0*- [0q] 2/0/1 PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP" (146)
+17:49:50.651224 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0*- [0q] 2/0/1 PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP" (146)
+17:49:51.180612 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:51.591189 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 1429:1602, ack 55, win 72, length 173
+17:49:51.591236 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 1602, win 4093, length 0
+17:49:51.694924 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 1602:1718, ack 55, win 72, length 116
+17:49:51.694963 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 1718, win 4094, length 0
+17:49:51.733520 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 1718:1775, ack 55, win 72, length 57
+17:49:51.733559 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 1775, win 4095, length 0
+17:49:51.846800 00:ff:ff:cc:11:10 (oui Unknown) > Broadcast, ethertype Unknown (0xfffa), length 95: 
+	0x0000:  736f 6672 6565 4142 595a 0200 0000 0000  sofreeABYZ......
+	0x0010:  0000 0000 0000 0000 0000 0000 0001 87e0  ................
+	0x0020:  da48 0000 0000 0000 0000 0000 0000 0000  .H..............
+	0x0030:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+	0x0040:  0000 8004 a37c 8111 3bf0 0000 0000 0000  .....|..;.......
+	0x0050:  00                                       .
+17:49:51.928916 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 1775:2056, ack 55, win 72, length 281
+17:49:51.928976 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 2056, win 4091, length 0
+17:49:52.180981 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:53.126959 IP 192.168.1.1 > igmp.mcast.net: igmp query v3
+17:49:53.126962 IP6 fe80::1 > ff02::1: HBH ICMP6, multicast listener querymax resp delay: 1000 addr: ::, length 24
+17:49:53.180861 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:53.194449 IP6 android.local > ff02::2: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::2, length 24
+17:49:53.343452 IP6 :: > ff02::2: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::2, length 24
+17:49:53.482419 IP6 android-2.local > ff02::1:ff8f:975e: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::1:ff8f:975e, length 24
+17:49:53.501255 IP6 fe80::cfc:5885:b7c0:2134 > ff02::fb: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::fb, length 24
+17:49:53.506337 IP6 fe80::cfc:5885:b7c0:2134 > ff02::2:ff65:be79: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::2:ff65:be79, length 24
+17:49:53.721408 IP6 android.local > ff02::1:ff11:5365: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::1:ff11:5365, length 24
+17:49:53.798205 IP6 fe80::6e24:a6ff:fe3b:24bf > ff05::2: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff05::2, length 24
+17:49:53.899988 IP6 android-2.local > ff02::fb: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::fb, length 24
+17:49:53.905129 IP6 :: > ff05::2: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff05::2, length 24
+17:49:53.949451 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 2056:2109, ack 55, win 72, length 53
+17:49:53.949498 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 2109, win 4095, length 0
+17:49:53.988808 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 2109:2156, ack 55, win 72, length 47
+17:49:53.988847 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 2156, win 4095, length 0
+17:49:53.995004 IP6 garvits-imac.local > ff02::2:ffb9:457f: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::2:ffb9:457f, length 24
+17:49:53.995019 IP6 garvits-imac.local > ff02::1:ff62:b5: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::1:ff62:b5, length 24
+17:49:54.059809 IP 192.168.1.2.mdns > 224.0.0.251.mdns: 0 PTR (QU)? 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+17:49:54.059917 IP6 garvits-imac.local.mdns > ff02::fb.mdns: 0 PTR (QU)? 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+17:49:54.142750 IP6 :: > ff02::fb: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::fb, length 24
+17:49:54.143061 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 2156:2199, ack 55, win 72, length 43
+17:49:54.143108 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 2199, win 4095, length 0
+17:49:54.180831 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:54.570386 IP 192.168.1.9.mdns > 224.0.0.251.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:49:54.570686 IP6 android-2.local.mdns > ff02::fb.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:49:55.066429 IP 192.168.1.2.mdns > 224.0.0.251.mdns: 0 PTR (QM)? 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+17:49:55.066501 IP6 garvits-imac.local.mdns > ff02::fb.mdns: 0 PTR (QM)? 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+17:49:55.068249 IP 192.168.1.7.mdns > 224.0.0.251.mdns: 12 [2q] PTR (QM)? _%9E5E7C8F47989526C9BCD95D24084F6F0B27C5ED._sub._googlecast._tcp.local. PTR (QM)? _googlecast._tcp.local. (94)
+17:49:55.082478 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 2199:2246, ack 55, win 72, length 47
+17:49:55.082520 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 2246, win 4095, length 0
+17:49:55.180966 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:55.762560 IP6 :: > ff02::2: HBH ICMP6, multicast listener donemax resp delay: 0 addr: ff02::fb, length 24
+17:49:55.762750 IP6 :: > ff02::fb: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::fb, length 24
+17:49:55.797242 IP6 :: > ff02::2: HBH ICMP6, multicast listener donemax resp delay: 0 addr: ff02::fb, length 24
+17:49:55.800595 IP6 :: > ff02::fb: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::fb, length 24
+17:49:55.801454 IP6 :: > ff02::2: HBH ICMP6, multicast listener donemax resp delay: 0 addr: ff02::fb, length 24
+17:49:55.822022 IP6 :: > ff02::fb: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::fb, length 24
+17:49:55.832591 IP6 :: > ff02::fb: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::fb, length 24
+17:49:55.866787 IP6 :: > ff02::2: HBH ICMP6, multicast listener donemax resp delay: 0 addr: ff02::fb, length 24
+17:49:55.939699 IP6 :: > ff02::fb: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::fb, length 24
+17:49:56.180823 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:56.357407 IP 192.168.1.2.51040 > 47.224.186.35.bc.googleusercontent.com.https: Flags [P.], seq 43:86, ack 41, win 2048, options [nop,nop,TS val 15813127 ecr 3437460963], length 43
+17:49:56.381092 IP 47.224.186.35.bc.googleusercontent.com.https > 192.168.1.2.51040: Flags [.], ack 86, win 246, options [nop,nop,TS val 3437490837 ecr 15813127], length 0
+17:49:56.440999 IP 192.168.1.7.mdns > 224.0.0.251.mdns: 0 [2q] [2n] ANY (QM)? Android-3.local. ANY (QM)? Android-3.local. (83)
+17:49:56.508510 IP 47.224.186.35.bc.googleusercontent.com.https > 192.168.1.2.51040: Flags [P.], seq 41:81, ack 86, win 246, options [nop,nop,TS val 3437490964 ecr 15813127], length 40
+17:49:56.508554 IP 192.168.1.2.51040 > 47.224.186.35.bc.googleusercontent.com.https: Flags [.], ack 81, win 2047, options [nop,nop,TS val 15813276 ecr 3437490964], length 0
+17:49:56.562446 IP 192.168.1.2.51024 > sg-sgp-ibm-r010.teamviewer.com.https: Flags [P.], seq 48:135, ack 25, win 2048, options [nop,nop,TS val 15813329 ecr 348267180], length 87
+17:49:56.642947 IP sg-sgp-ibm-r010.teamviewer.com.https > 192.168.1.2.51024: Flags [P.], seq 25:105, ack 135, win 255, options [nop,nop,TS val 348274022 ecr 15813329], length 80
+17:49:56.643003 IP 192.168.1.2.51024 > sg-sgp-ibm-r010.teamviewer.com.https: Flags [.], ack 105, win 2046, options [nop,nop,TS val 15813409 ecr 348274022], length 0
+17:49:56.702624 IP 192.168.1.7.mdns > 224.0.0.251.mdns: 0 [2q] [2n] ANY (QM)? Android-3.local. ANY (QM)? Android-3.local. (83)
+17:49:56.856667 00:ff:ff:cc:11:10 (oui Unknown) > Broadcast, ethertype Unknown (0xfffa), length 95: 
+	0x0000:  736f 6672 6565 4142 595a 0200 0000 0000  sofreeABYZ......
+	0x0010:  0000 0000 0000 0000 0000 0000 0001 8444  ...............D
+	0x0020:  c048 0000 0000 0000 0000 0000 0000 0000  .H..............
+	0x0030:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+	0x0040:  0000 8004 a37c 8111 3bf0 0000 0000 0000  .....|..;.......
+	0x0050:  00                                       .
+17:49:56.941125 IP 192.168.1.7.mdns > 224.0.0.251.mdns: 0 [2q] [2n] ANY (QM)? Android-3.local. ANY (QM)? Android-3.local. (83)
+17:49:57.180852 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:57.191944 IP 192.168.1.7.mdns > 224.0.0.251.mdns: 0*- [0q] 4/0/3 (Cache flush) PTR Android-3.local., (Cache flush) PTR Android-3.local., (Cache flush) A 192.168.1.7, (Cache flush) AAAA fe80::349e:29ff:fef0:9698 (247)
+17:49:57.974300 IP 192.168.1.4.mdns > 224.0.0.251.mdns: 14 [4q] PTR (QM)? _%9E5E7C8F47989526C9BCD95D24084F6F0B27C5ED._sub._googlecast._tcp.local. PTR (QM)? _C1EB68AE._sub._googlecast._tcp.local. PTR (QM)? _8DA7527D._sub._googlecast._tcp.local. PTR (QM)? _googlecast._tcp.local. (126)
+17:49:58.075879 IP 192.168.1.2.mdns > 224.0.0.251.mdns: 0 PTR (QM)? 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+17:49:58.076005 IP6 garvits-imac.local.mdns > ff02::fb.mdns: 0 PTR (QM)? 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+17:49:58.180632 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:58.193950 IP 192.168.1.7.mdns > 224.0.0.251.mdns: 0*- [0q] 4/0/3 (Cache flush) PTR Android-3.local., (Cache flush) PTR Android-3.local., (Cache flush) A 192.168.1.7, (Cache flush) AAAA fe80::349e:29ff:fef0:9698 (247)
+17:49:58.689392 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0 [5q] [1au] PTR (QU)? _homekit._tcp.local. PTR (QU)? _companion-link._tcp.local. PTR (QU)? _raop._tcp.local. PTR (QU)? _airplay._tcp.local. PTR (QU)? _sleep-proxy._udp.local. (139)
+17:49:58.690246 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0 [5q] [1au] PTR (QU)? _homekit._tcp.local. PTR (QU)? _companion-link._tcp.local. PTR (QU)? _raop._tcp.local. PTR (QU)? _airplay._tcp.local. PTR (QU)? _sleep-proxy._udp.local. (139)
+17:49:58.690540 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0*- [0q] 2/0/3 (Cache flush) PTR Garvits-iPad.local., (Cache flush) PTR Garvits-iPad.local. (215)
+17:49:58.690744 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0*- [0q] 2/0/3 (Cache flush) PTR Garvits-iPad.local., (Cache flush) PTR Garvits-iPad.local. (215)
+17:49:58.956684 ARP, Request who-has 192.168.1.2 tell 192.168.1.1, length 46
+17:49:58.956701 ARP, Reply 192.168.1.2 is-at f0:76:1c:b0:75:14 (oui Unknown), length 28
+17:49:58.999379 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0 [2q] [3n] [1au] ANY (QU)? Garvit's iPad._companion-link._tcp.local. ANY (QU)? Garvits-iPad.local. (170)
+17:49:58.999569 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0 [2q] [3n] [1au] ANY (QU)? Garvit's iPad._companion-link._tcp.local. ANY (QU)? Garvits-iPad.local. (170)
+17:49:59.008577 IP6 garvits-ipad.local > ff02::fb: HBH ICMP6, multicast listener donemax resp delay: 0 addr: ff02::fb, length 24
+17:49:59.008782 IP6 garvits-ipad.local > ff02::fb: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::fb, length 24
+17:49:59.009727 IP 192.168.1.2.55204 > 192.168.1.1.domain: 50313+ PTR? 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa. (90)
+17:49:59.162849 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:49:59.177098 IP 192.168.1.1.domain > 192.168.1.2.55204: 50313 NXDomain 0/1/0 (154)
+17:49:59.178696 IP 192.168.1.2.54674 > 192.168.1.1.domain: 45929+ PTR? e.5.7.9.f.8.f.f.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa. (90)
+17:49:59.255365 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0 [2q] [3n] [1au] ANY (QM)? Garvit's iPad._companion-link._tcp.local. ANY (QM)? Garvits-iPad.local. (170)
+17:49:59.256544 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0 [2q] [3n] [1au] ANY (QM)? Garvit's iPad._companion-link._tcp.local. ANY (QM)? Garvits-iPad.local. (170)
+17:49:59.343044 IP 192.168.1.1.domain > 192.168.1.2.54674: 45929 NXDomain 0/1/0 (154)
+17:49:59.467211 IP 192.168.1.2.mdns > 224.0.0.251.mdns: 0 PTR (QU)? 4.3.1.2.0.c.7.b.5.8.8.5.c.f.c.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+17:49:59.467327 IP6 garvits-imac.local.mdns > ff02::fb.mdns: 0 PTR (QU)? 4.3.1.2.0.c.7.b.5.8.8.5.c.f.c.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+17:49:59.561884 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0 [2q] [3n] [1au] ANY (QM)? Garvit's iPad._companion-link._tcp.local. ANY (QM)? Garvits-iPad.local. (170)
+17:49:59.562194 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0 [2q] [3n] [1au] ANY (QM)? Garvit's iPad._companion-link._tcp.local. ANY (QM)? Garvits-iPad.local. (170)
+17:49:59.724515 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0 [5q] [1au] PTR (QM)? _homekit._tcp.local. PTR (QM)? _companion-link._tcp.local. PTR (QM)? _raop._tcp.local. PTR (QM)? _airplay._tcp.local. PTR (QM)? _sleep-proxy._udp.local. (139)
+17:49:59.724756 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0 [5q] [1au] PTR (QM)? _homekit._tcp.local. PTR (QM)? _companion-link._tcp.local. PTR (QM)? _raop._tcp.local. PTR (QM)? _airplay._tcp.local. PTR (QM)? _sleep-proxy._udp.local. (139)
+17:49:59.725891 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0*- [0q] 4/0/3 PTR _companion-link._tcp.local., TXT "model=J81AP", (Cache flush) PTR Garvits-iPad.local., (Cache flush) PTR Garvits-iPad.local. (324)
+17:49:59.726711 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0*- [0q] 4/0/3 PTR _companion-link._tcp.local., TXT "model=J81AP", (Cache flush) PTR Garvits-iPad.local., (Cache flush) PTR Garvits-iPad.local. (324)
+17:49:59.830034 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0*- [0q] 6/0/3 (Cache flush) TXT "rpBA=E4:0D:A4:6B:05:FF" "rpAD=d8dba6258956" "rpFl=0x30000" "rpHN=c8a97a93f1f5" "rpVr=195.2", PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP", (Cache flush) SRV Garvits-iPad.local.:54760 0 0, (Cache flush) AAAA fe80::c21:7eab:5e58:7de3, (Cache flush) A 192.168.1.3 (359)
+17:49:59.830780 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0*- [0q] 6/0/3 (Cache flush) TXT "rpBA=E4:0D:A4:6B:05:FF" "rpAD=d8dba6258956" "rpFl=0x30000" "rpHN=c8a97a93f1f5" "rpVr=195.2", PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP", (Cache flush) SRV Garvits-iPad.local.:54760 0 0, (Cache flush) AAAA fe80::c21:7eab:5e58:7de3, (Cache flush) A 192.168.1.3 (359)
+17:50:00.181456 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:00.209540 IP 192.168.1.7.mdns > 224.0.0.251.mdns: 0*- [0q] 4/0/3 (Cache flush) PTR Android-3.local., (Cache flush) PTR Android-3.local., (Cache flush) A 192.168.1.7, (Cache flush) AAAA fe80::349e:29ff:fef0:9698 (247)
+17:50:00.474297 IP 192.168.1.2.mdns > 224.0.0.251.mdns: 0 PTR (QM)? 4.3.1.2.0.c.7.b.5.8.8.5.c.f.c.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+17:50:00.474409 IP6 garvits-imac.local.mdns > ff02::fb.mdns: 0 PTR (QM)? 4.3.1.2.0.c.7.b.5.8.8.5.c.f.c.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+17:50:00.568056 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0*- [0q] 7/0/3 (Cache flush) TXT "rpBA=E4:0D:A4:6B:05:FF" "rpAD=d8dba6258956" "rpFl=0x30000" "rpHN=c8a97a93f1f5" "rpVr=195.2", PTR _companion-link._tcp.local., PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP", (Cache flush) SRV Garvits-iPad.local.:54760 0 0, (Cache flush) AAAA fe80::c21:7eab:5e58:7de3, (Cache flush) A 192.168.1.3 (396)
+17:50:00.569062 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0*- [0q] 7/0/3 (Cache flush) TXT "rpBA=E4:0D:A4:6B:05:FF" "rpAD=d8dba6258956" "rpFl=0x30000" "rpHN=c8a97a93f1f5" "rpVr=195.2", PTR _companion-link._tcp.local., PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP", (Cache flush) SRV Garvits-iPad.local.:54760 0 0, (Cache flush) AAAA fe80::c21:7eab:5e58:7de3, (Cache flush) A 192.168.1.3 (396)
+17:50:01.181187 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:01.514108 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0*- [0q] 2/0/1 PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP" (146)
+17:50:01.514892 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0*- [0q] 2/0/1 PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP" (146)
+17:50:01.656254 IP 192.168.1.2.51024 > sg-sgp-ibm-r010.teamviewer.com.https: Flags [P.], seq 135:159, ack 105, win 2048, options [nop,nop,TS val 15818419 ecr 348274022], length 24
+17:50:01.660138 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 2246:2292, ack 55, win 72, length 46
+17:50:01.660183 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 2292, win 4095, length 0
+17:50:01.737664 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 2292:2339, ack 55, win 72, length 47
+17:50:01.737704 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 2339, win 4095, length 0
+17:50:01.776064 IP sg-sgp-ibm-r010.teamviewer.com.https > 192.168.1.2.51024: Flags [.], ack 159, win 255, options [nop,nop,TS val 348279156 ecr 15818419], length 0
+17:50:01.866493 00:ff:ff:cc:11:10 (oui Unknown) > Broadcast, ethertype Unknown (0xfffa), length 95: 
+	0x0000:  736f 6672 6565 4142 595a 0200 0000 0000  sofreeABYZ......
+	0x0010:  0000 0000 0000 0000 0000 0000 0001 8444  ...............D
+	0x0020:  d648 0000 0000 0000 0000 0000 0000 0000  .H..............
+	0x0030:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+	0x0040:  0000 8004 a37c 8111 3bf0 0000 0000 0000  .....|..;.......
+	0x0050:  00                                       .
+17:50:02.181628 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:02.576370 IP 192.168.1.9.mdns > 224.0.0.251.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:50:02.577163 IP6 android-2.local.mdns > ff02::fb.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:50:03.127006 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:03.190119 IP6 :: > ff02::fb: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::fb, length 24
+17:50:03.486157 IP 192.168.1.2.mdns > 224.0.0.251.mdns: 0 PTR (QM)? 4.3.1.2.0.c.7.b.5.8.8.5.c.f.c.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+17:50:03.486268 IP6 garvits-imac.local.mdns > ff02::fb.mdns: 0 PTR (QM)? 4.3.1.2.0.c.7.b.5.8.8.5.c.f.c.0.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+17:50:04.169657 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:04.220277 IP 192.168.1.7.mdns > 224.0.0.251.mdns: 0*- [0q] 4/0/3 (Cache flush) PTR Android-3.local., (Cache flush) PTR Android-3.local., (Cache flush) A 192.168.1.7, (Cache flush) AAAA fe80::349e:29ff:fef0:9698 (247)
+17:50:04.349654 IP 192.168.1.2.50010 > 192.168.1.1.domain: 29683+ PTR? 9.7.e.b.5.6.f.f.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa. (90)
+17:50:04.810293 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0 [5q] [1au] PTR (QU)? _homekit._tcp.local. PTR (QU)? _companion-link._tcp.local. PTR (QU)? _raop._tcp.local. PTR (QU)? _airplay._tcp.local. PTR (QU)? _sleep-proxy._udp.local. (139)
+17:50:04.811709 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0 [5q] [1au] PTR (QU)? _homekit._tcp.local. PTR (QU)? _companion-link._tcp.local. PTR (QU)? _raop._tcp.local. PTR (QU)? _airplay._tcp.local. PTR (QU)? _sleep-proxy._udp.local. (139)
+17:50:04.812019 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0*- [0q] 2/0/3 (Cache flush) PTR Garvits-iPad.local., (Cache flush) PTR Garvits-iPad.local. (215)
+17:50:04.812301 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0*- [0q] 2/0/3 (Cache flush) PTR Garvits-iPad.local., (Cache flush) PTR Garvits-iPad.local. (215)
+17:50:05.121199 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 2339:2533, ack 55, win 72, length 194
+17:50:05.121248 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 2533, win 4092, length 0
+17:50:05.180912 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:05.250233 IP6 garvits-ipad.local > ff02::fb: HBH ICMP6, multicast listener donemax resp delay: 0 addr: ff02::fb, length 24
+17:50:05.250379 IP6 garvits-ipad.local > ff02::fb: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::fb, length 24
+17:50:05.350374 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0 [2q] [3n] [1au] ANY (QU)? Garvit's iPad._companion-link._tcp.local. ANY (QU)? Garvits-iPad.local. (170)
+17:50:05.350437 IP 192.168.1.2.50010 > 192.168.1.1.domain: 29683+ PTR? 9.7.e.b.5.6.f.f.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa. (90)
+17:50:05.350589 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0 [2q] [3n] [1au] ANY (QU)? Garvit's iPad._companion-link._tcp.local. ANY (QU)? Garvits-iPad.local. (170)
+17:50:05.380239 IP 192.168.1.1.domain > 192.168.1.2.50010: 29683 NXDomain 0/1/0 (154)
+17:50:05.381639 IP 192.168.1.2.53038 > 192.168.1.1.domain: 61726+ PTR? 5.6.3.5.1.1.f.f.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa. (90)
+17:50:05.639363 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0 [2q] [3n] [1au] ANY (QM)? Garvit's iPad._companion-link._tcp.local. ANY (QM)? Garvits-iPad.local. (170)
+17:50:05.639532 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0 [2q] [3n] [1au] ANY (QM)? Garvit's iPad._companion-link._tcp.local. ANY (QM)? Garvits-iPad.local. (170)
+17:50:05.764246 IP 192.168.1.3 > igmp.mcast.net: igmp v3 report, 1 group record(s)
+17:50:05.818842 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0 [5q] [1au] PTR (QM)? _homekit._tcp.local. PTR (QM)? _companion-link._tcp.local. PTR (QM)? _raop._tcp.local. PTR (QM)? _airplay._tcp.local. PTR (QM)? _sleep-proxy._udp.local. (139)
+17:50:05.819004 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0 [5q] [1au] PTR (QM)? _homekit._tcp.local. PTR (QM)? _companion-link._tcp.local. PTR (QM)? _raop._tcp.local. PTR (QM)? _airplay._tcp.local. PTR (QM)? _sleep-proxy._udp.local. (139)
+17:50:05.820393 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0*- [0q] 2/0/3 (Cache flush) PTR Garvits-iPad.local., (Cache flush) PTR Garvits-iPad.local. (215)
+17:50:05.820533 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0*- [0q] 2/0/3 (Cache flush) PTR Garvits-iPad.local., (Cache flush) PTR Garvits-iPad.local. (215)
+17:50:05.824421 IP 192.168.1.1.domain > 192.168.1.2.53038: 61726 NXDomain 0/1/0 (154)
+17:50:05.918486 IP 192.168.1.2.mdns > 224.0.0.251.mdns: 0 PTR (QU)? f.b.4.2.b.3.e.f.f.f.6.a.4.2.e.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+17:50:05.918603 IP6 garvits-imac.local.mdns > ff02::fb.mdns: 0 PTR (QU)? f.b.4.2.b.3.e.f.f.f.6.a.4.2.e.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+17:50:06.016937 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0 [2q] [3n] [1au] ANY (QM)? Garvit's iPad._companion-link._tcp.local. ANY (QM)? Garvits-iPad.local. (170)
+17:50:06.017195 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0 [2q] [3n] [1au] ANY (QM)? Garvit's iPad._companion-link._tcp.local. ANY (QM)? Garvits-iPad.local. (170)
+17:50:06.181751 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:06.194302 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0*- [0q] 2/0/1 PTR _companion-link._tcp.local., TXT "model=J81AP" (155)
+17:50:06.194535 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0*- [0q] 2/0/1 PTR _companion-link._tcp.local., TXT "model=J81AP" (155)
+17:50:06.297703 IP6 android-2.local > ff02::2: HBH ICMP6, multicast listener donemax resp delay: 0 addr: ff02::fb, length 24
+17:50:06.298005 IP6 android-2.local > ff02::fb: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::fb, length 24
+17:50:06.300739 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0*- [0q] 6/0/3 (Cache flush) TXT "rpBA=E4:0D:A4:6B:05:FF" "rpAD=d8dba6258956" "rpFl=0x30000" "rpHN=c8a97a93f1f5" "rpVr=195.2", PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP", (Cache flush) SRV Garvits-iPad.local.:54760 0 0, (Cache flush) AAAA fe80::c21:7eab:5e58:7de3, (Cache flush) A 192.168.1.3 (359)
+17:50:06.301019 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0*- [0q] 6/0/3 (Cache flush) TXT "rpBA=E4:0D:A4:6B:05:FF" "rpAD=d8dba6258956" "rpFl=0x30000" "rpHN=c8a97a93f1f5" "rpVr=195.2", PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP", (Cache flush) SRV Garvits-iPad.local.:54760 0 0, (Cache flush) AAAA fe80::c21:7eab:5e58:7de3, (Cache flush) A 192.168.1.3 (359)
+17:50:06.876485 00:ff:ff:cc:11:10 (oui Unknown) > Broadcast, ethertype Unknown (0xfffa), length 95: 
+	0x0000:  736f 6672 6565 4142 595a 0200 0f05 ee00  sofreeABYZ......
+	0x0010:  1325 0000 0000 0000 0000 0000 0000 0000  .%..............
+	0x0020:  4d15 0100 0000 0000 0000 0000 0000 0000  M...............
+	0x0030:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+	0x0040:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+	0x0050:  00                                       .
+17:50:06.926056 IP 192.168.1.2.mdns > 224.0.0.251.mdns: 0 PTR (QM)? f.b.4.2.b.3.e.f.f.f.6.a.4.2.e.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+17:50:06.926154 IP6 garvits-imac.local.mdns > ff02::fb.mdns: 0 PTR (QM)? f.b.4.2.b.3.e.f.f.f.6.a.4.2.e.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+17:50:07.049062 IP 192.168.1.9.mdns > 224.0.0.251.mdns: 0 [4q] [4n] ANY (QM)? SH960S-AT._sensy-remote._tcp.local. ANY (QM)? SH960S-AT._androidtvremote._tcp.local. ANY (QM)? Android-2.local. ANY (QM)? Android-2.local. (191)
+17:50:07.049211 IP6 android-2.local.mdns > ff02::fb.mdns: 0 [4q] [4n] ANY (QM)? SH960S-AT._sensy-remote._tcp.local. ANY (QM)? SH960S-AT._androidtvremote._tcp.local. ANY (QM)? Android-2.local. ANY (QM)? Android-2.local. (191)
+17:50:07.182274 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:07.195136 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0*- [0q] 7/0/3 (Cache flush) TXT "rpBA=E4:0D:A4:6B:05:FF" "rpAD=d8dba6258956" "rpFl=0x30000" "rpHN=c8a97a93f1f5" "rpVr=195.2", PTR _companion-link._tcp.local., PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP", (Cache flush) SRV Garvits-iPad.local.:54760 0 0, (Cache flush) AAAA fe80::c21:7eab:5e58:7de3, (Cache flush) A 192.168.1.3 (396)
+17:50:07.195758 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0*- [0q] 7/0/3 (Cache flush) TXT "rpBA=E4:0D:A4:6B:05:FF" "rpAD=d8dba6258956" "rpFl=0x30000" "rpHN=c8a97a93f1f5" "rpVr=195.2", PTR _companion-link._tcp.local., PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP", (Cache flush) SRV Garvits-iPad.local.:54760 0 0, (Cache flush) AAAA fe80::c21:7eab:5e58:7de3, (Cache flush) A 192.168.1.3 (396)
+17:50:07.298489 IP 192.168.1.9.mdns > 224.0.0.251.mdns: 0 [4q] [4n] ANY (QM)? SH960S-AT._sensy-remote._tcp.local. ANY (QM)? SH960S-AT._androidtvremote._tcp.local. ANY (QM)? Android-2.local. ANY (QM)? Android-2.local. (191)
+17:50:07.298780 IP6 android-2.local.mdns > ff02::fb.mdns: 0 [4q] [4n] ANY (QM)? SH960S-AT._sensy-remote._tcp.local. ANY (QM)? SH960S-AT._androidtvremote._tcp.local. ANY (QM)? Android-2.local. ANY (QM)? Android-2.local. (191)
+17:50:07.339997 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 2533:2637, ack 55, win 72, length 104
+17:50:07.340048 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 2637, win 4094, length 0
+17:50:07.347419 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 2637:2681, ack 55, win 72, length 44
+17:50:07.347458 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 2681, win 4095, length 0
+17:50:07.549515 IP 192.168.1.9.mdns > 224.0.0.251.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:50:07.549718 IP6 android-2.local.mdns > ff02::fb.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:50:07.829625 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0*- [0q] 2/0/3 (Cache flush) PTR Garvits-iPad.local., (Cache flush) PTR Garvits-iPad.local. (215)
+17:50:07.830250 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0*- [0q] 2/0/3 (Cache flush) PTR Garvits-iPad.local., (Cache flush) PTR Garvits-iPad.local. (215)
+17:50:08.180929 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:08.550524 IP 192.168.1.9.mdns > 224.0.0.251.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:50:08.552988 IP6 android-2.local.mdns > ff02::fb.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:50:08.768170 IP 192.168.1.3 > igmp.mcast.net: igmp v3 report, 1 group record(s)
+17:50:08.830553 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0 [1a] [5q] [1au] PTR (QM)? _homekit._tcp.local. PTR (QM)? _companion-link._tcp.local. PTR (QM)? _raop._tcp.local. PTR (QM)? _airplay._tcp.local. PTR (QM)? _sleep-proxy._udp.local. (167)
+17:50:08.832236 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0 [1a] [5q] [1au] PTR (QM)? _homekit._tcp.local. PTR (QM)? _companion-link._tcp.local. PTR (QM)? _raop._tcp.local. PTR (QM)? _airplay._tcp.local. PTR (QM)? _sleep-proxy._udp.local. (167)
+17:50:09.133168 IP6 android-2.local > ff02::fb: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::fb, length 24
+17:50:09.181095 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:09.195151 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0*- [0q] 7/0/3 (Cache flush) TXT "rpBA=E4:0D:A4:6B:05:FF" "rpAD=d8dba6258956" "rpFl=0x30000" "rpHN=c8a97a93f1f5" "rpVr=195.2", PTR _companion-link._tcp.local., PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP", (Cache flush) SRV Garvits-iPad.local.:54760 0 0, (Cache flush) AAAA fe80::c21:7eab:5e58:7de3, (Cache flush) A 192.168.1.3 (396)
+17:50:09.195318 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0*- [0q] 7/0/3 (Cache flush) TXT "rpBA=E4:0D:A4:6B:05:FF" "rpAD=d8dba6258956" "rpFl=0x30000" "rpHN=c8a97a93f1f5" "rpVr=195.2", PTR _companion-link._tcp.local., PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP", (Cache flush) SRV Garvits-iPad.local.:54760 0 0, (Cache flush) AAAA fe80::c21:7eab:5e58:7de3, (Cache flush) A 192.168.1.3 (396)
+17:50:09.937102 IP 192.168.1.2.mdns > 224.0.0.251.mdns: 0 PTR (QM)? f.b.4.2.b.3.e.f.f.f.6.a.4.2.e.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+17:50:09.937213 IP6 garvits-imac.local.mdns > ff02::fb.mdns: 0 PTR (QM)? f.b.4.2.b.3.e.f.f.f.6.a.4.2.e.6.0.0.0.0.0.0.0.0.0.0.0.0.0.8.e.f.ip6.arpa. (90)
+17:50:10.180667 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:10.551719 IP 192.168.1.9.mdns > 224.0.0.251.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:50:10.551969 IP6 android-2.local.mdns > ff02::fb.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:50:10.829748 IP 192.168.1.2.50659 > 192.168.1.1.domain: 42715+ PTR? 2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.5.0.f.f.ip6.arpa. (90)
+17:50:10.993765 IP 192.168.1.1.domain > 192.168.1.2.50659: 42715 NXDomain 0/1/0 (154)
+17:50:10.994952 IP 192.168.1.2.56906 > 192.168.1.1.domain: 43967+ PTR? f.7.5.4.9.b.f.f.2.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa. (90)
+17:50:11.157060 IP 192.168.1.1.domain > 192.168.1.2.56906: 43967 NXDomain 0/1/0 (154)
+17:50:11.158368 IP 192.168.1.2.54855 > 192.168.1.1.domain: 7857+ PTR? 5.b.0.0.2.6.f.f.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa. (90)
+17:50:11.177483 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:11.315547 IP 192.168.1.1.domain > 192.168.1.2.54855: 7857 NXDomain 0/1/0 (154)
+17:50:11.831090 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0*- [0q] 9/0/5 (Cache flush) TXT "rpBA=E4:0D:A4:6B:05:FF" "rpAD=d8dba6258956" "rpFl=0x30000" "rpHN=c8a97a93f1f5" "rpVr=195.2", PTR _companion-link._tcp.local., PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP", (Cache flush) SRV Garvits-iPad.local.:54760 0 0, (Cache flush) PTR Garvits-iPad.local., (Cache flush) PTR Garvits-iPad.local., (Cache flush) AAAA fe80::c21:7eab:5e58:7de3, (Cache flush) A 192.168.1.3 (552)
+17:50:11.831968 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0*- [0q] 9/0/5 (Cache flush) TXT "rpBA=E4:0D:A4:6B:05:FF" "rpAD=d8dba6258956" "rpFl=0x30000" "rpHN=c8a97a93f1f5" "rpVr=195.2", PTR _companion-link._tcp.local., PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP", (Cache flush) SRV Garvits-iPad.local.:54760 0 0, (Cache flush) PTR Garvits-iPad.local., (Cache flush) PTR Garvits-iPad.local., (Cache flush) AAAA fe80::c21:7eab:5e58:7de3, (Cache flush) A 192.168.1.3 (552)
+17:50:11.886366 00:ff:ff:cc:11:10 (oui Unknown) > Broadcast, ethertype Unknown (0xfffa), length 95: 
+	0x0000:  736f 6672 6565 4142 595a 0200 0000 0000  sofreeABYZ......
+	0x0010:  0000 0000 0000 0000 0000 0000 0001 844c  ...............L
+	0x0020:  d248 0000 0000 0000 0000 0000 0000 0000  .H..............
+	0x0030:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+	0x0040:  0000 8004 a37c 8111 3bf0 0000 0000 0000  .....|..;.......
+	0x0050:  00                                       .
+17:50:12.181662 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:12.207056 IP 192.168.1.7.mdns > 224.0.0.251.mdns: 0*- [0q] 4/0/3 (Cache flush) PTR Android-3.local., (Cache flush) PTR Android-3.local., (Cache flush) A 192.168.1.7, (Cache flush) AAAA fe80::349e:29ff:fef0:9698 (247)
+17:50:13.183060 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:13.990683 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 2681:2733, ack 55, win 72, length 52
+17:50:13.990733 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 2733, win 4095, length 0
+17:50:14.030500 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 2733:2780, ack 55, win 72, length 47
+17:50:14.030539 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 2780, win 4095, length 0
+17:50:14.130289 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 2780:2913, ack 55, win 72, length 133
+17:50:14.130328 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 2913, win 4093, length 0
+17:50:14.143599 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 2913:3014, ack 55, win 72, length 101
+17:50:14.143639 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 3014, win 4094, length 0
+17:50:14.167692 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 3014:3076, ack 55, win 72, length 62
+17:50:14.167732 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 3076, win 4095, length 0
+17:50:14.178163 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 3076:3125, ack 55, win 72, length 49
+17:50:14.178219 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 3125, win 4095, length 0
+17:50:14.178988 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:14.208146 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 3125:3178, ack 55, win 72, length 53
+17:50:14.208191 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 3178, win 4095, length 0
+17:50:14.459742 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 3178:3589, ack 55, win 72, length 411
+17:50:14.459781 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 3589, win 4089, length 0
+17:50:14.463212 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 3589:3660, ack 55, win 72, length 71
+17:50:14.463247 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 3660, win 4094, length 0
+17:50:14.480677 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 3660:3728, ack 55, win 72, length 68
+17:50:14.480715 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 3728, win 4094, length 0
+17:50:14.541893 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 3728:3785, ack 55, win 72, length 57
+17:50:14.541948 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 3785, win 4095, length 0
+17:50:14.553181 IP 192.168.1.9.mdns > 224.0.0.251.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:50:14.553382 IP6 android-2.local.mdns > ff02::fb.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:50:14.632810 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 3785:3846, ack 55, win 72, length 61
+17:50:14.632853 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 3846, win 4095, length 0
+17:50:14.893534 IP6 :: > ff02::2: HBH ICMP6, multicast listener donemax resp delay: 0 addr: ff02::fb, length 24
+17:50:14.895663 IP6 :: > ff02::fb: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::fb, length 24
+17:50:14.957734 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 3846:3894, ack 55, win 72, length 48
+17:50:14.957774 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 3894, win 4095, length 0
+17:50:15.096178 IP 192.168.1.7.mdns > 224.0.0.251.mdns: 13 [2q] PTR (QM)? _%9E5E7C8F47989526C9BCD95D24084F6F0B27C5ED._sub._googlecast._tcp.local. PTR (QM)? _googlecast._tcp.local. (94)
+17:50:15.128299 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:15.397048 IP 192.168.1.7.mdns > 224.0.0.251.mdns: 0 [2q] [2n] ANY (QM)? Android-3.local. ANY (QM)? Android-3.local. (83)
+17:50:15.602775 IP 192.168.1.3.mdns > 224.0.0.251.mdns: 0*- [0q] 2/0/1 PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP" (146)
+17:50:15.603540 IP6 garvits-ipad.local.mdns > ff02::fb.mdns: 0*- [0q] 2/0/1 PTR Garvit's iPad._companion-link._tcp.local., TXT "model=J81AP" (146)
+17:50:15.650634 IP 192.168.1.7.mdns > 224.0.0.251.mdns: 0 [2q] [2n] ANY (QM)? Android-3.local. ANY (QM)? Android-3.local. (83)
+17:50:15.732346 IP6 :: > ff02::2: HBH ICMP6, multicast listener donemax resp delay: 0 addr: ff02::fb, length 24
+17:50:15.734257 IP6 :: > ff02::fb: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::fb, length 24
+17:50:16.178359 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:16.248177 IP 192.168.1.7.mdns > 224.0.0.251.mdns: 0 [2q] [2n] ANY (QM)? Android-3.local. ANY (QM)? Android-3.local. (83)
+17:50:16.505119 IP 192.168.1.7.mdns > 224.0.0.251.mdns: 0 [2q] [2n] ANY (QM)? Android-3.local. ANY (QM)? Android-3.local. (83)
+17:50:16.750251 IP 192.168.1.7.mdns > 224.0.0.251.mdns: 0 [2q] [2n] ANY (QM)? Android-3.local. ANY (QM)? Android-3.local. (83)
+17:50:16.896263 00:ff:ff:cc:11:10 (oui Unknown) > Broadcast, ethertype Unknown (0xfffa), length 95: 
+	0x0000:  736f 6672 6565 4142 595a 0200 0000 0000  sofreeABYZ......
+	0x0010:  0000 0000 0000 0000 0000 0000 0001 0a0e  ................
+	0x0020:  8bd1 6730 c516 c19d 0035 0033 f8ce 6cb7  ..g0.....5.3..l.
+	0x0030:  0100 0001 0000 0000 0000 0361 7069 0773  ...........api.s
+	0x0040:  6574 7469 6e67 0469 6e74 6c04 6d69 7569  etting.intl.miui
+	0x0050:  03                                       .
+17:50:17.003315 IP 192.168.1.7.mdns > 224.0.0.251.mdns: 0*- [0q] 4/0/3 (Cache flush) PTR Android-3.local., (Cache flush) PTR Android-3.local., (Cache flush) A 192.168.1.7, (Cache flush) AAAA fe80::349e:29ff:fef0:9698 (247)
+17:50:17.179761 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:17.198851 IP6 :: > ff02::2: HBH ICMP6, multicast listener donemax resp delay: 0 addr: ff02::fb, length 24
+17:50:17.202011 IP6 :: > ff02::fb: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::fb, length 24
+17:50:17.719392 IP 192.168.1.7.mdns > 224.0.0.251.mdns: 0 [2q] [2n] ANY (QM)? Android-3.local. ANY (QM)? Android-3.local. (83)
+17:50:17.976799 IP 192.168.1.7.mdns > 224.0.0.251.mdns: 0 [2q] [2n] ANY (QM)? Android-3.local. ANY (QM)? Android-3.local. (83)
+17:50:18.021120 IP 192.168.1.4.mdns > 224.0.0.251.mdns: 15 [4q] PTR (QM)? _%9E5E7C8F47989526C9BCD95D24084F6F0B27C5ED._sub._googlecast._tcp.local. PTR (QM)? _C1EB68AE._sub._googlecast._tcp.local. PTR (QM)? _8DA7527D._sub._googlecast._tcp.local. PTR (QM)? _googlecast._tcp.local. (126)
+17:50:18.181019 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:18.220017 IP 192.168.1.7.mdns > 224.0.0.251.mdns: 0 [2q] [2n] ANY (QM)? Android-3.local. ANY (QM)? Android-3.local. (83)
+17:50:18.455044 IP 192.168.1.7.mdns > 224.0.0.251.mdns: 0*- [0q] 4/0/3 (Cache flush) PTR Android-3.local., (Cache flush) PTR Android-3.local., (Cache flush) A 192.168.1.7, (Cache flush) AAAA fe80::349e:29ff:fef0:9698 (247)
+17:50:19.180991 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:19.389151 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 3894:4064, ack 55, win 72, length 170
+17:50:19.389197 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 4064, win 4093, length 0
+17:50:19.456605 IP 192.168.1.7.mdns > 224.0.0.251.mdns: 0*- [0q] 4/0/3 (Cache flush) PTR Android-3.local., (Cache flush) PTR Android-3.local., (Cache flush) A 192.168.1.7, (Cache flush) AAAA fe80::349e:29ff:fef0:9698 (247)
+17:50:20.181268 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:20.535620 IP 192.168.1.5.mdns > 224.0.0.251.mdns: 0*- [0q] 4/0/3 (Cache flush) PTR Android.local., (Cache flush) PTR Android.local., (Cache flush) A 192.168.1.5, (Cache flush) AAAA fe80::7ed6:61ff:fe11:5365 (245)
+17:50:20.536304 IP6 android.local.mdns > ff02::fb.mdns: 0*- [0q] 4/0/3 (Cache flush) PTR Android.local., (Cache flush) PTR Android.local., (Cache flush) A 192.168.1.5, (Cache flush) AAAA fe80::7ed6:61ff:fe11:5365 (245)
+17:50:21.181176 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:21.466621 IP 192.168.1.7.mdns > 224.0.0.251.mdns: 0*- [0q] 4/0/3 (Cache flush) PTR Android-3.local., (Cache flush) PTR Android-3.local., (Cache flush) A 192.168.1.7, (Cache flush) AAAA fe80::349e:29ff:fef0:9698 (247)
+17:50:21.786893 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 4064:4165, ack 55, win 72, length 101
+17:50:21.786938 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 4165, win 4094, length 0
+17:50:21.795885 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 4165:4211, ack 55, win 72, length 46
+17:50:21.795925 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 4211, win 4095, length 0
+17:50:21.808262 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 4211:4257, ack 55, win 72, length 46
+17:50:21.808301 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 4257, win 4095, length 0
+17:50:21.853404 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 4257:4303, ack 55, win 72, length 46
+17:50:21.853443 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 4303, win 4095, length 0
+17:50:21.888926 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 4303:4349, ack 55, win 72, length 46
+17:50:21.888966 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 4349, win 4095, length 0
+17:50:21.906190 00:ff:ff:cc:11:10 (oui Unknown) > Broadcast, ethertype Unknown (0xfffa), length 95: 
+	0x0000:  736f 6672 6565 4142 595a 0200 0000 0000  sofreeABYZ......
+	0x0010:  0000 0000 0000 0000 0000 0000 0001 844c  ...............L
+	0x0020:  ce48 0000 0000 0000 0000 0000 0000 0000  .H..............
+	0x0030:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+	0x0040:  0000 8004 a37c 8111 3bf0 0000 0000 0000  .....|..;.......
+	0x0050:  00                                       .
+17:50:22.180954 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:22.560135 IP 192.168.1.9.mdns > 224.0.0.251.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:50:22.560713 IP6 android-2.local.mdns > ff02::fb.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:50:23.033482 ARP, Request who-has 192.168.1.3 tell 192.168.1.6, length 46
+17:50:23.181568 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:23.297469 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 4349:4597, ack 55, win 72, length 248
+17:50:23.297515 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 4597, win 4092, length 0
+17:50:23.759882 ARP, Request who-has 192.168.1.3 tell 192.168.1.6, length 46
+17:50:24.182925 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:24.491688 ARP, Request who-has 192.168.1.3 tell 192.168.1.6, length 46
+17:50:25.180117 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:25.460361 IP 192.168.1.7.mdns > 224.0.0.251.mdns: 0*- [0q] 4/0/3 (Cache flush) PTR Android-3.local., (Cache flush) PTR Android-3.local., (Cache flush) A 192.168.1.7, (Cache flush) AAAA fe80::349e:29ff:fef0:9698 (247)
+17:50:25.748833 ARP, Request who-has 192.168.1.3 tell 192.168.1.6, length 46
+17:50:26.181057 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:26.188070 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [P.], seq 55:109, ack 4597, win 4096, length 54
+17:50:26.212858 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [.], ack 109, win 72, length 0
+17:50:26.357404 IP 192.168.1.2.51040 > 47.224.186.35.bc.googleusercontent.com.https: Flags [P.], seq 86:129, ack 81, win 2048, options [nop,nop,TS val 15843094 ecr 3437490964], length 43
+17:50:26.381158 IP 47.224.186.35.bc.googleusercontent.com.https > 192.168.1.2.51040: Flags [.], ack 129, win 246, options [nop,nop,TS val 3437520837 ecr 15843094], length 0
+17:50:26.501380 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 4597:4631, ack 109, win 72, length 34
+17:50:26.501424 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 4631, win 4095, length 0
+17:50:26.508378 IP 47.224.186.35.bc.googleusercontent.com.https > 192.168.1.2.51040: Flags [P.], seq 81:121, ack 129, win 246, options [nop,nop,TS val 3437520964 ecr 15843094], length 40
+17:50:26.508421 IP 192.168.1.2.51040 > 47.224.186.35.bc.googleusercontent.com.https: Flags [.], ack 121, win 2047, options [nop,nop,TS val 15843242 ecr 3437520964], length 0
+17:50:26.870657 IP6 :: > ff02::fb: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::fb, length 24
+17:50:26.916063 00:ff:ff:cc:11:10 (oui Unknown) > Broadcast, ethertype Unknown (0xfffa), length 95: 
+	0x0000:  736f 6672 6565 4142 595a 0200 0000 0000  sofreeABYZ......
+	0x0010:  0000 0000 0000 0000 0000 0000 0001 0a0e  ................
+	0x0020:  8bd1 6730 c516 c19d 0035 0031 197b cb2b  ..g0.....5.1.{.+
+	0x0030:  0100 0001 0000 0000 0000 0369 6d70 0763  ...........imp.c
+	0x0040:  6f6e 7472 6f6c 076b 6f63 6861 7661 0363  ontrol.kochava.c
+	0x0050:  6f                                       o
+17:50:27.180763 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:27.789792 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 4631:4926, ack 109, win 72, length 295
+17:50:27.789843 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 4926, win 4091, length 0
+17:50:27.868528 IP6 android-2.local > ff02::2: HBH ICMP6, multicast listener donemax resp delay: 0 addr: ff02::fb, length 24
+17:50:27.872547 IP6 android-2.local > ff02::fb: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::fb, length 24
+17:50:28.057205 ARP, Request who-has 192.168.1.3 tell 192.168.1.6, length 46
+17:50:28.181403 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:28.374975 IP 192.168.1.9.mdns > 224.0.0.251.mdns: 0 [4q] [4n] ANY (QU)? SH960S-AT._sensy-remote._tcp.local. ANY (QU)? SH960S-AT._androidtvremote._tcp.local. ANY (QU)? Android-2.local. ANY (QU)? Android-2.local. (191)
+17:50:28.375632 IP6 android-2.local.mdns > ff02::fb.mdns: 0 [4q] [4n] ANY (QU)? SH960S-AT._sensy-remote._tcp.local. ANY (QU)? SH960S-AT._androidtvremote._tcp.local. ANY (QU)? Android-2.local. ANY (QU)? Android-2.local. (191)
+17:50:28.540322 IP 192.168.1.2.51256 > 162.159.134.232.https: Flags [.], ack 1, win 4096, length 0
+17:50:28.540340 IP 192.168.1.2.51255 > 162.159.133.232.https: Flags [.], ack 1, win 4096, length 0
+17:50:28.540347 IP 192.168.1.2.51254 > 162.159.129.233.https: Flags [.], ack 1, win 4096, length 0
+17:50:28.565455 IP 162.159.129.233.https > 192.168.1.2.51254: Flags [.], ack 1, win 107, length 0
+17:50:28.565459 IP 162.159.134.232.https > 192.168.1.2.51256: Flags [.], ack 1, win 71, length 0
+17:50:28.565461 IP 162.159.133.232.https > 192.168.1.2.51255: Flags [.], ack 1, win 72, length 0
+17:50:28.625320 IP 192.168.1.9.mdns > 224.0.0.251.mdns: 0 [4q] [4n] ANY (QM)? SH960S-AT._sensy-remote._tcp.local. ANY (QM)? SH960S-AT._androidtvremote._tcp.local. ANY (QM)? Android-2.local. ANY (QM)? Android-2.local. (191)
+17:50:28.625471 IP6 android-2.local.mdns > ff02::fb.mdns: 0 [4q] [4n] ANY (QM)? SH960S-AT._sensy-remote._tcp.local. ANY (QM)? SH960S-AT._androidtvremote._tcp.local. ANY (QM)? Android-2.local. ANY (QM)? Android-2.local. (191)
+17:50:28.874331 IP 192.168.1.9.mdns > 224.0.0.251.mdns: 0 [4q] [4n] ANY (QM)? SH960S-AT._sensy-remote._tcp.local. ANY (QM)? SH960S-AT._androidtvremote._tcp.local. ANY (QM)? Android-2.local. ANY (QM)? Android-2.local. (191)
+17:50:28.874497 IP6 android-2.local.mdns > ff02::fb.mdns: 0 [4q] [4n] ANY (QM)? SH960S-AT._sensy-remote._tcp.local. ANY (QM)? SH960S-AT._androidtvremote._tcp.local. ANY (QM)? Android-2.local. ANY (QM)? Android-2.local. (191)
+17:50:29.126852 IP 192.168.1.9.mdns > 224.0.0.251.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:50:29.127366 IP6 android-2.local.mdns > ff02::fb.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:50:29.181586 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:30.126416 IP 192.168.1.9.mdns > 224.0.0.251.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:50:30.126657 IP6 android-2.local.mdns > ff02::fb.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:50:30.183102 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:31.155303 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:31.593236 IP 192.168.1.4.48183 > 239.255.255.250.ssdp: UDP, length 137
+17:50:31.817796 IP 192.168.1.4.mdns > 224.0.0.251.mdns: 1 [3q] PTR (QU)? _%9E5E7C8F47989526C9BCD95D24084F6F0B27C5ED._sub._googlecast._tcp.local. PTR (QU)? _C1EB68AE._sub._googlecast._tcp.local. PTR (QU)? _googlecast._tcp.local. (110)
+17:50:31.925949 00:ff:ff:cc:11:10 (oui Unknown) > Broadcast, ethertype Unknown (0xfffa), length 95: 
+	0x0000:  736f 6672 6565 4142 595a 0200 0000 0000  sofreeABYZ......
+	0x0010:  0000 0000 0000 0000 0000 0000 0001 0a0e  ................
+	0x0020:  8bd1 6730 c516 c19d 0035 0031 d77d ea09  ..g0.....5.1.}..
+	0x0030:  0100 0001 0000 0000 0000 0b62 6966 726f  ...........bifro
+	0x0040:  7374 2d61 7069 0768 6f74 7374 6172 0363  st-api.hotstar.c
+	0x0050:  6f                                       o
+17:50:32.087403 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 4926:5289, ack 109, win 72, length 363
+17:50:32.087448 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 5289, win 4090, length 0
+17:50:32.133285 IP6 android-2.local.mdns > ff02::fb.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:50:32.133838 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:32.526135 IP6 fe80::1 > ff02::2: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::2, length 24
+17:50:32.795992 ARP, Request who-has 192.168.1.2 tell 192.168.1.1, length 46
+17:50:32.796008 ARP, Reply 192.168.1.2 is-at f0:76:1c:b0:75:14 (oui Unknown), length 28
+17:50:32.819736 IP 192.168.1.4.mdns > 224.0.0.251.mdns: 2 [3q] PTR (QM)? _%9E5E7C8F47989526C9BCD95D24084F6F0B27C5ED._sub._googlecast._tcp.local. PTR (QM)? _C1EB68AE._sub._googlecast._tcp.local. PTR (QM)? _googlecast._tcp.local. (110)
+17:50:33.181298 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:33.254180 IP6 android-2.local > ff02::fb: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::fb, length 24
+17:50:33.462549 IP 192.168.1.7.mdns > 224.0.0.251.mdns: 0*- [0q] 4/0/3 (Cache flush) PTR Android-3.local., (Cache flush) PTR Android-3.local., (Cache flush) A 192.168.1.7, (Cache flush) AAAA fe80::349e:29ff:fef0:9698 (247)
+17:50:33.839827 IP 192.168.1.4.mdns > 224.0.0.251.mdns: 3 [3q] PTR (QM)? _%9E5E7C8F47989526C9BCD95D24084F6F0B27C5ED._sub._googlecast._tcp.local. PTR (QM)? _C1EB68AE._sub._googlecast._tcp.local. PTR (QM)? _googlecast._tcp.local. (110)
+17:50:33.975048 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 5289:5340, ack 109, win 72, length 51
+17:50:33.975093 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 5340, win 4095, length 0
+17:50:34.058524 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 5340:5390, ack 109, win 72, length 50
+17:50:34.058564 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 5390, win 4095, length 0
+17:50:34.178028 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 5390:5440, ack 109, win 72, length 50
+17:50:34.178081 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 5440, win 4095, length 0
+17:50:34.178865 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:34.594543 IP 192.168.1.4.48183 > 239.255.255.250.ssdp: UDP, length 132
+17:50:34.961148 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 5440:5490, ack 109, win 72, length 50
+17:50:34.961192 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 5490, win 4095, length 0
+17:50:35.100001 IP 192.168.1.7.mdns > 224.0.0.251.mdns: 14 [2q] PTR (QM)? _%9E5E7C8F47989526C9BCD95D24084F6F0B27C5ED._sub._googlecast._tcp.local. PTR (QM)? _googlecast._tcp.local. (94)
+17:50:35.180251 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:36.132109 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:36.139926 IP 192.168.1.9.mdns > 224.0.0.251.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:50:36.140614 IP6 android-2.local.mdns > ff02::fb.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:50:36.935847 00:ff:ff:cc:11:10 (oui Unknown) > Broadcast, ethertype Unknown (0xfffa), length 95: 
+	0x0000:  736f 6672 6565 4142 595a 0200 0000 0000  sofreeABYZ......
+	0x0010:  0000 0000 0000 0000 0000 0000 0001 8444  ...............D
+	0x0020:  c848 0000 0000 0000 0000 0000 0000 0000  .H..............
+	0x0030:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+	0x0040:  0000 8004 a37c 8111 3bf0 0000 0000 0000  .....|..;.......
+	0x0050:  00                                       .
+17:50:37.181004 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:37.598146 IP 192.168.1.4.48183 > 239.255.255.250.ssdp: UDP, length 133
+17:50:38.181160 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:38.756548 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 5490:5565, ack 109, win 72, length 75
+17:50:38.756609 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 5565, win 4094, length 0
+17:50:39.177685 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:40.181200 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:40.600999 IP 192.168.1.4.48183 > 239.255.255.250.ssdp: UDP, length 101
+17:50:41.181132 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:41.945723 00:ff:ff:cc:11:10 (oui Unknown) > Broadcast, ethertype Unknown (0xfffa), length 95: 
+	0x0000:  736f 6672 6565 4142 595a 0200 0000 0000  sofreeABYZ......
+	0x0010:  0000 0000 0000 0000 0000 0000 0001 0000  ................
+	0x0020:  4d15 0100 0000 0000 0000 0000 0000 0000  M...............
+	0x0030:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+	0x0040:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+	0x0050:  00                                       .
+17:50:42.181160 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:43.182558 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:44.181790 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:45.179640 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:46.180914 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:46.955632 00:ff:ff:cc:11:10 (oui Unknown) > Broadcast, ethertype Unknown (0xfffa), length 95: 
+	0x0000:  736f 6672 6565 4142 595a 0200 0000 0000  sofreeABYZ......
+	0x0010:  0000 0000 0000 0000 0000 0000 0001 0a0e  ................
+	0x0020:  8bd1 6730 c516 c19d 0035 002d b9cb abca  ..g0.....5.-....
+	0x0030:  0100 0001 0000 0000 0000 0773 6466 702d  ...........sdfp-
+	0x0040:  7367 0774 696b 746f 6b76 0363 6f6d 0000  sg.tiktokv.com..
+	0x0050:  01                                       .
+17:50:47.158938 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:47.310214 IP 192.168.1.9.mdns > 224.0.0.251.mdns: 0 [4q] [4n] ANY (QM)? SH960S-AT._sensy-remote._tcp.local. ANY (QM)? SH960S-AT._androidtvremote._tcp.local. ANY (QM)? Android-2.local. ANY (QM)? Android-2.local. (191)
+17:50:47.310434 IP6 android-2.local.mdns > ff02::fb.mdns: 0 [4q] [4n] ANY (QM)? SH960S-AT._sensy-remote._tcp.local. ANY (QM)? SH960S-AT._androidtvremote._tcp.local. ANY (QM)? Android-2.local. ANY (QM)? Android-2.local. (191)
+17:50:48.181643 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:49.181477 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:49.478377 IP 192.168.1.7.mdns > 224.0.0.251.mdns: 0*- [0q] 4/0/3 (Cache flush) PTR Android-3.local., (Cache flush) PTR Android-3.local., (Cache flush) A 192.168.1.7, (Cache flush) AAAA fe80::349e:29ff:fef0:9698 (247)
+17:50:50.181343 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:51.181822 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:51.730940 IP 192.168.1.2.51024 > sg-sgp-ibm-r010.teamviewer.com.https: Flags [P.], seq 159:183, ack 105, win 2048, options [nop,nop,TS val 15868455 ecr 348279156], length 24
+17:50:51.813080 IP sg-sgp-ibm-r010.teamviewer.com.https > 192.168.1.2.51024: Flags [P.], seq 105:129, ack 183, win 255, options [nop,nop,TS val 348329192 ecr 15868455], length 24
+17:50:51.813150 IP 192.168.1.2.51024 > sg-sgp-ibm-r010.teamviewer.com.https: Flags [.], ack 129, win 2047, options [nop,nop,TS val 15868537 ecr 348329192], length 0
+17:50:51.965524 00:ff:ff:cc:11:10 (oui Unknown) > Broadcast, ethertype Unknown (0xfffa), length 95: 
+	0x0000:  736f 6672 6565 4142 595a 0200 0000 0000  sofreeABYZ......
+	0x0010:  0000 0000 0000 0000 0000 0000 0001 8444  ...............D
+	0x0020:  c048 0000 0000 0000 0000 0000 0000 0000  .H..............
+	0x0030:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+	0x0040:  0000 8004 a37c 8111 3bf0 0000 0000 0000  .....|..;.......
+	0x0050:  00                                       .
+17:50:52.181571 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:52.867361 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 5565:5681, ack 109, win 72, length 116
+17:50:52.867407 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 5681, win 4094, length 0
+17:50:53.177440 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:53.676287 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 5681:5875, ack 109, win 72, length 194
+17:50:53.676334 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 5875, win 4092, length 0
+17:50:53.823463 IP 192.168.1.4.mdns > 224.0.0.251.mdns: 4 [3q] PTR (QM)? _%9E5E7C8F47989526C9BCD95D24084F6F0B27C5ED._sub._googlecast._tcp.local. PTR (QM)? _C1EB68AE._sub._googlecast._tcp.local. PTR (QM)? _googlecast._tcp.local. (110)
+17:50:54.034096 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 5875:5927, ack 109, win 72, length 52
+17:50:54.034141 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 5927, win 4095, length 0
+17:50:54.041401 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 5927:5974, ack 109, win 72, length 47
+17:50:54.041440 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 5974, win 4095, length 0
+17:50:54.144058 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 5974:6021, ack 109, win 72, length 47
+17:50:54.144097 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 6021, win 4095, length 0
+17:50:54.179218 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:54.573646 IP 192.168.1.9.mdns > 224.0.0.251.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:50:54.574306 IP6 android-2.local.mdns > ff02::fb.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:50:54.890202 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 6021:6068, ack 109, win 72, length 47
+17:50:54.890249 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 6068, win 4095, length 0
+17:50:55.159197 IP 192.168.1.7.mdns > 224.0.0.251.mdns: 15 [2q] PTR (QM)? _%9E5E7C8F47989526C9BCD95D24084F6F0B27C5ED._sub._googlecast._tcp.local. PTR (QM)? _googlecast._tcp.local. (94)
+17:50:55.181193 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:56.023209 ARP, Request who-has 192.168.1.3 tell 192.168.1.6, length 46
+17:50:56.181618 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:56.357587 IP 192.168.1.2.51040 > 47.224.186.35.bc.googleusercontent.com.https: Flags [P.], seq 129:172, ack 121, win 2048, options [nop,nop,TS val 15873074 ecr 3437520964], length 43
+17:50:56.381507 IP 47.224.186.35.bc.googleusercontent.com.https > 192.168.1.2.51040: Flags [.], ack 172, win 246, options [nop,nop,TS val 3437550837 ecr 15873074], length 0
+17:50:56.508977 IP 47.224.186.35.bc.googleusercontent.com.https > 192.168.1.2.51040: Flags [P.], seq 121:161, ack 172, win 246, options [nop,nop,TS val 3437550965 ecr 15873074], length 40
+17:50:56.509016 IP 192.168.1.2.51040 > 47.224.186.35.bc.googleusercontent.com.https: Flags [.], ack 161, win 2047, options [nop,nop,TS val 15873224 ecr 3437550965], length 0
+17:50:56.880863 IP 192.168.1.2.51024 > sg-sgp-ibm-r010.teamviewer.com.https: Flags [P.], seq 183:207, ack 129, win 2048, options [nop,nop,TS val 15873595 ecr 348329192], length 24
+17:50:56.975427 00:ff:ff:cc:11:10 (oui Unknown) > Broadcast, ethertype Unknown (0xfffa), length 95: 
+	0x0000:  736f 6672 6565 4142 595a 0200 0000 0000  sofreeABYZ......
+	0x0010:  0000 0000 0000 0000 0000 0000 0001 0000  ................
+	0x0020:  4d15 0100 0000 0000 0000 0000 0000 0000  M...............
+	0x0030:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+	0x0040:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+	0x0050:  00                                       .
+17:50:57.001115 IP sg-sgp-ibm-r010.teamviewer.com.https > 192.168.1.2.51024: Flags [.], ack 207, win 255, options [nop,nop,TS val 348334383 ecr 15873595], length 0
+17:50:57.181970 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:58.181484 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:50:59.181840 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:51:00.176738 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:51:01.182055 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:51:01.666857 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 6068:6137, ack 109, win 72, length 69
+17:51:01.666902 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 6137, win 4094, length 0
+17:51:01.985326 00:ff:ff:cc:11:10 (oui Unknown) > Broadcast, ethertype Unknown (0xfffa), length 95: 
+	0x0000:  736f 6672 6565 4142 595a 0200 0000 0000  sofreeABYZ......
+	0x0010:  0000 0000 0000 0000 0000 0000 0001 0000  ................
+	0x0020:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+	0x0030:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+	0x0040:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+	0x0050:  00                                       .
+17:51:02.004862 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 6137:6300, ack 109, win 72, length 163
+17:51:02.004901 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 6300, win 4093, length 0
+17:51:02.181228 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:51:02.192862 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 6300:6486, ack 109, win 72, length 186
+17:51:02.192909 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 6486, win 4093, length 0
+17:51:02.242090 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 6486:6539, ack 109, win 72, length 53
+17:51:02.242129 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 6539, win 4095, length 0
+17:51:02.273717 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 6539:6609, ack 109, win 72, length 70
+17:51:02.273759 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 6609, win 4094, length 0
+17:51:02.579635 IP 192.168.1.9.mdns > 224.0.0.251.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:51:02.580300 IP6 android-2.local.mdns > ff02::fb.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:51:03.177775 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:51:04.181262 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:51:05.179994 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:51:06.062803 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 6609:6694, ack 109, win 72, length 85
+17:51:06.062849 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 6694, win 4094, length 0
+17:51:06.181626 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:51:06.308643 IP6 android-2.local > ff02::2: HBH ICMP6, multicast listener donemax resp delay: 0 addr: ff02::fb, length 24
+17:51:06.308941 IP6 android-2.local > ff02::fb: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::fb, length 24
+17:51:06.453424 a0:6f:aa:8f:97:5e (oui Unknown) > Broadcast Null Unnumbered, xid, Flags [Response], length 46: 01 02
+17:51:06.588891 IP6 android-2.local > ff02::2: HBH ICMP6, multicast listener donemax resp delay: 0 addr: ff02::fb, length 24
+17:51:06.589092 IP6 android-2.local > ff02::fb: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::fb, length 24
+17:51:06.675291 ARP, Request who-has 192.168.1.2 tell 192.168.1.1, length 46
+17:51:06.675305 ARP, Reply 192.168.1.2 is-at f0:76:1c:b0:75:14 (oui Unknown), length 28
+17:51:06.995228 00:ff:ff:cc:11:10 (oui Unknown) > Broadcast, ethertype Unknown (0xfffa), length 95: 
+	0x0000:  736f 6672 6565 4142 595a 0200 0000 0000  sofreeABYZ......
+	0x0010:  0000 0000 0000 0000 0000 0000 0001 8446  ...............F
+	0x0020:  d048 0000 0000 0000 0000 0000 0000 0000  .H..............
+	0x0030:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+	0x0040:  0000 8004 a37c 8111 3bf0 0000 0000 0000  .....|..;.......
+	0x0050:  00                                       .
+17:51:07.089434 IP 192.168.1.9.mdns > 224.0.0.251.mdns: 0 [4q] [4n] ANY (QU)? SH960S-AT._sensy-remote._tcp.local. ANY (QU)? SH960S-AT._androidtvremote._tcp.local. ANY (QU)? Android-2.local. ANY (QU)? Android-2.local. (191)
+17:51:07.089591 IP6 android-2.local.mdns > ff02::fb.mdns: 0 [4q] [4n] ANY (QU)? SH960S-AT._sensy-remote._tcp.local. ANY (QU)? SH960S-AT._androidtvremote._tcp.local. ANY (QU)? Android-2.local. ANY (QU)? Android-2.local. (191)
+17:51:07.181260 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:51:07.339717 IP 192.168.1.9.mdns > 224.0.0.251.mdns: 0 [4q] [4n] ANY (QM)? SH960S-AT._sensy-remote._tcp.local. ANY (QM)? SH960S-AT._androidtvremote._tcp.local. ANY (QM)? Android-2.local. ANY (QM)? Android-2.local. (191)
+17:51:07.339887 IP6 android-2.local.mdns > ff02::fb.mdns: 0 [4q] [4n] ANY (QM)? SH960S-AT._sensy-remote._tcp.local. ANY (QM)? SH960S-AT._androidtvremote._tcp.local. ANY (QM)? Android-2.local. ANY (QM)? Android-2.local. (191)
+17:51:07.438365 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [P.], seq 109:163, ack 6694, win 4096, length 54
+17:51:07.463307 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [.], ack 163, win 72, length 0
+17:51:07.589281 IP 192.168.1.9.mdns > 224.0.0.251.mdns: 0 [4q] [4n] ANY (QM)? SH960S-AT._sensy-remote._tcp.local. ANY (QM)? SH960S-AT._androidtvremote._tcp.local. ANY (QM)? Android-2.local. ANY (QM)? Android-2.local. (191)
+17:51:07.590070 IP6 android-2.local.mdns > ff02::fb.mdns: 0 [4q] [4n] ANY (QM)? SH960S-AT._sensy-remote._tcp.local. ANY (QM)? SH960S-AT._androidtvremote._tcp.local. ANY (QM)? Android-2.local. ANY (QM)? Android-2.local. (191)
+17:51:07.709149 IP6 android-2.local > ff02::fb: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::fb, length 24
+17:51:07.750856 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 6694:6727, ack 163, win 72, length 33
+17:51:07.750900 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 6727, win 4095, length 0
+17:51:07.845620 IP 192.168.1.9.mdns > 224.0.0.251.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:51:07.846055 IP6 android-2.local.mdns > ff02::fb.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:51:08.181788 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:51:08.843005 IP 192.168.1.9.mdns > 224.0.0.251.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:51:08.843238 IP6 android-2.local.mdns > ff02::fb.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:51:08.917970 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 6727:6813, ack 163, win 72, length 86
+17:51:08.918014 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 6813, win 4094, length 0
+17:51:09.000462 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 6813:6981, ack 163, win 72, length 168
+17:51:09.000501 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 6981, win 4093, length 0
+17:51:09.183171 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:51:09.553700 IP6 :: > ff02::2: HBH ICMP6, multicast listener donemax resp delay: 0 addr: ff02::fb, length 24
+17:51:09.555787 IP6 :: > ff02::fb: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::fb, length 24
+17:51:09.581103 IP6 :: > ff02::2: HBH ICMP6, multicast listener donemax resp delay: 0 addr: ff02::fb, length 24
+17:51:09.616537 IP6 :: > ff02::fb: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::fb, length 24
+17:51:09.617464 IP6 :: > ff02::2: HBH ICMP6, multicast listener donemax resp delay: 0 addr: ff02::fb, length 24
+17:51:09.631805 IP6 :: > ff02::fb: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::fb, length 24
+17:51:09.664627 IP6 :: > ff02::2: HBH ICMP6, multicast listener donemax resp delay: 0 addr: ff02::fb, length 24
+17:51:09.711849 IP6 :: > ff02::fb: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::fb, length 24
+17:51:10.181980 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:51:10.213404 IP 192.168.1.7.mdns > 224.0.0.251.mdns: 0 [2q] [2n] ANY (QM)? Android-3.local. ANY (QM)? Android-3.local. (83)
+17:51:10.465689 IP 192.168.1.7.mdns > 224.0.0.251.mdns: 0 [2q] [2n] ANY (QM)? Android-3.local. ANY (QM)? Android-3.local. (83)
+17:51:10.717997 IP 192.168.1.7.mdns > 224.0.0.251.mdns: 0 [2q] [2n] ANY (QM)? Android-3.local. ANY (QM)? Android-3.local. (83)
+17:51:10.843502 IP 192.168.1.9.mdns > 224.0.0.251.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:51:10.843744 IP6 android-2.local.mdns > ff02::fb.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:51:10.967788 IP 192.168.1.7.mdns > 224.0.0.251.mdns: 0*- [0q] 4/0/3 (Cache flush) PTR Android-3.local., (Cache flush) PTR Android-3.local., (Cache flush) A 192.168.1.7, (Cache flush) AAAA fe80::349e:29ff:fef0:9698 (247)
+17:51:11.131578 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:51:11.981568 IP 192.168.1.7.mdns > 224.0.0.251.mdns: 0*- [0q] 4/0/3 (Cache flush) PTR Android-3.local., (Cache flush) PTR Android-3.local., (Cache flush) A 192.168.1.7, (Cache flush) AAAA fe80::349e:29ff:fef0:9698 (247)
+17:51:12.005132 00:ff:ff:cc:11:10 (oui Unknown) > Broadcast, ethertype Unknown (0xfffa), length 95: 
+	0x0000:  736f 6672 6565 4142 595a 0200 0000 0000  sofreeABYZ......
+	0x0010:  0000 0000 0000 0000 0000 0000 0001 0000  ................
+	0x0020:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+	0x0030:  0000 0000 0000 0000 0000 0000 0001 0000  ................
+	0x0040:  0000 8004 a37c 8111 3bf0 0000 0000 0000  .....|..;.......
+	0x0050:  00                                       .
+17:51:12.181797 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:51:13.182017 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:51:13.592859 IP 192.168.1.2.51256 > 162.159.134.232.https: Flags [.], ack 1, win 4096, length 0
+17:51:13.592878 IP 192.168.1.2.51255 > 162.159.133.232.https: Flags [.], ack 1, win 4096, length 0
+17:51:13.592888 IP 192.168.1.2.51254 > 162.159.129.233.https: Flags [.], ack 1, win 4096, length 0
+17:51:13.617862 IP 162.159.133.232.https > 192.168.1.2.51255: Flags [.], ack 1, win 72, length 0
+17:51:13.617866 IP 162.159.129.233.https > 192.168.1.2.51254: Flags [.], ack 1, win 107, length 0
+17:51:13.617867 IP 162.159.134.232.https > 192.168.1.2.51256: Flags [.], ack 1, win 71, length 0
+17:51:13.837572 IP 192.168.1.4.mdns > 224.0.0.251.mdns: 5 [3q] PTR (QM)? _%9E5E7C8F47989526C9BCD95D24084F6F0B27C5ED._sub._googlecast._tcp.local. PTR (QM)? _C1EB68AE._sub._googlecast._tcp.local. PTR (QM)? _googlecast._tcp.local. (110)
+17:51:14.002081 IP 192.168.1.7.mdns > 224.0.0.251.mdns: 0*- [0q] 4/0/3 (Cache flush) PTR Android-3.local., (Cache flush) PTR Android-3.local., (Cache flush) A 192.168.1.7, (Cache flush) AAAA fe80::349e:29ff:fef0:9698 (247)
+17:51:14.049468 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 6981:7034, ack 163, win 72, length 53
+17:51:14.049515 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 7034, win 4095, length 0
+17:51:14.065938 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 7034:7081, ack 163, win 72, length 47
+17:51:14.065978 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 7081, win 4095, length 0
+17:51:14.182040 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:51:14.209966 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 7081:7128, ack 163, win 72, length 47
+17:51:14.210011 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 7128, win 4095, length 0
+17:51:14.854103 IP 192.168.1.9.mdns > 224.0.0.251.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:51:14.854289 IP6 android-2.local.mdns > ff02::fb.mdns: 0*- [0q] 12/0/5 (Cache flush) TXT "", PTR _sensy-remote._tcp.local., PTR SH960S-AT._sensy-remote._tcp.local., (Cache flush) SRV Android-2.local.:7367 0 0, (Cache flush) TXT "bt=22:22:CB:73:2F:24", PTR _androidtvremote._tcp.local., PTR SH960S-AT._androidtvremote._tcp.local., (Cache flush) SRV Android-2.local.:6466 0 0, (Cache flush) PTR Android-2.local., (Cache flush) PTR Android-2.local., (Cache flush) A 192.168.1.9, (Cache flush) AAAA fe80::a26f:aaff:fe8f:975e (510)
+17:51:14.979666 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 7128:7175, ack 163, win 72, length 47
+17:51:14.979712 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 7175, win 4095, length 0
+17:51:15.121680 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:51:15.198973 IP 192.168.1.7.mdns > 224.0.0.251.mdns: 16 [2q] PTR (QM)? _%9E5E7C8F47989526C9BCD95D24084F6F0B27C5ED._sub._googlecast._tcp.local. PTR (QM)? _googlecast._tcp.local. (94)
+17:51:15.361568 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 7175:7402, ack 163, win 72, length 227
+17:51:15.361614 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 7402, win 4092, length 0
+17:51:15.373848 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 7402:7457, ack 163, win 72, length 55
+17:51:15.373890 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 7457, win 4095, length 0
+17:51:15.383790 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 7457:7509, ack 163, win 72, length 52
+17:51:15.383829 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 7509, win 4095, length 0
+17:51:15.470325 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 7509:7561, ack 163, win 72, length 52
+17:51:15.470364 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 7561, win 4095, length 0
+17:51:15.510464 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 7561:7613, ack 163, win 72, length 52
+17:51:15.510503 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 7613, win 4095, length 0
+17:51:15.568006 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 7613:7699, ack 163, win 72, length 86
+17:51:15.568045 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 7699, win 4094, length 0
+17:51:15.570966 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 7699:7744, ack 163, win 72, length 45
+17:51:15.571006 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 7744, win 4095, length 0
+17:51:15.574029 IP 162.159.136.234.https > 192.168.1.2.51238: Flags [P.], seq 7744:7839, ack 163, win 72, length 95
+17:51:15.574061 IP 192.168.1.2.51238 > 162.159.136.234.https: Flags [.], ack 7839, win 4094, length 0
+17:51:16.177778 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:51:16.782893 IP6 :: > ff02::fb: HBH ICMP6, multicast listener reportmax resp delay: 0 addr: ff02::fb, length 24
+17:51:17.015012 00:ff:ff:cc:11:10 (oui Unknown) > Broadcast, ethertype Unknown (0xfffa), length 95: 
+	0x0000:  736f 6672 6565 4142 595a 0200 0000 0000  sofreeABYZ......
+	0x0010:  0000 0000 0000 0000 0000 0000 0001 844c  ...............L
+	0x0020:  c248 0000 0000 0000 0000 0000 0000 0000  .H..............
+	0x0030:  0000 0000 0000 0000 0000 0000 0000 0000  ................
+	0x0040:  0000 8004 a37c 8111 3bf0 0000 0000 0000  .....|..;.......
+	0x0050:  00                                       .
+17:51:17.131324 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:51:18.006529 IP 192.168.1.7.mdns > 224.0.0.251.mdns: 0*- [0q] 4/0/3 (Cache flush) PTR Android-3.local., (Cache flush) PTR Android-3.local., (Cache flush) A 192.168.1.7, (Cache flush) AAAA fe80::349e:29ff:fef0:9698 (247)
+17:51:18.181680 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:51:19.183057 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+17:51:20.184454 IP 192.168.1.2.54915 > 192.168.1.255.54915: UDP, length 263
+
